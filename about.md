@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/jasmin.jpg" style="padding:25px">
 
 <div>
-Hello, my name is Jasmin Rubinovitz. I'm <span class="changing"></span>
+Hello, my name is Cevi Herdian. I'm <span class="changing"></span>
 <br>
 <br>
 I'm a cross disciplined researcher, designer and engineer - currently a Research Assistant and a Graduate Student in the Viral Communications group at MIT Media Lab.
