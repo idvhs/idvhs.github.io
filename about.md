@@ -22,9 +22,9 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
-
+<br>
 <a href="https://itsmecevi.github.io/">See my online CV</a>
-
+<!--
 <br>
 <br>
 Extras: my key fields of interest
@@ -66,7 +66,7 @@ Tools:
 <br>
 #Python, Anaconda, Jupyter Notebook
 <br>
-#SAP Business Object Web Intelligence
+#SAP Business Object Web Intelligence -->
 
 <!--  <a class="page-link" target="_blank" href="{{ '/JasminRubinovitzCV_2017.pdf' | prepend: site.baseurl }}">Resume</a> -->
 </div>
