@@ -22,7 +22,28 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
-
+<br>
+<br>
+**Extras:** my key fields of interest
+#Statistics: descriptive, inferential, and predictive
+#Data model: Starschema, Snowflakes, Relational
+#KPI (Key Performances Indicators)
+#Ad hoc reporting
+#Data Mining
+#Data quality
+#EDA (Exploratory Data Analysis)
+#Data Science
+#Kaggle 
+#Scrum & Kanban project management
+#Confluenci Wiki Documentation
+<br>
+#SSBI (Self Service Business Intelligence): Power BI & Tableau
+#Microsoft Excel & VBA
+#Self Service ETL (Extract, Transformation, Loaden): Power Query, M Programming, Power Pivot, DAX (Data Analyst Expression)
+#SQL
+#R, R Notebook, R markdown, R Shiny
+#Python, Anaconda, Jupyter Notebook
+#SAP Business Object Web Intelligence
 
 <!--  <a class="page-link" target="_blank" href="{{ '/JasminRubinovitzCV_2017.pdf' | prepend: site.baseurl }}">Resume</a> -->
 </div>
