@@ -2,7 +2,7 @@
 layout: post
 title: DIY AR Device
 description: Augmented Reality For Everyone
-img: /img/ar_device/img4.jpg
+img: /new/img/ar_device/img4.jpg
 date: 2016-04-30
 ---
 
