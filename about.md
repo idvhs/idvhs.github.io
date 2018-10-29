@@ -26,6 +26,7 @@ I'm interested in exploring the new methode or technology for better insight fro
 <br>
 **Extras:** my key fields of interest
 #Statistics: descriptive, inferential, and predictive
+	<br>
 #Data model: Starschema, Snowflakes, Relational
 #KPI (Key Performances Indicators)
 #Ad hoc reporting
