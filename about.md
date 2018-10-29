@@ -22,13 +22,14 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
+See my [online CV](https://itsmecevi.github.io/)
 <br>
 <br>
 Extras: my key fields of interest
 <br>
 #Statistics: descriptive, inferential, and predictive
 <br>
-#Data model: Starschema, Snowflakes, Relational
+#Data model: starschema, snowflakes, relational data
 <br>
 #KPI (Key Performances Indicators)
 <br>
@@ -44,7 +45,7 @@ Extras: my key fields of interest
 <br>
 #Kaggle 
 <br>
-#Scrum & Kanban project management
+#Scrum & Kanban project management (Trello)
 <br>
 #Confluenci Wiki Documentation
 <br>
