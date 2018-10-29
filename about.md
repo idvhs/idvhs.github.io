@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
 
 <div>
-Hello, my name is Cevi Herdian. Im <span class="changing"></span> 
+Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
 I'm a cross disciplined researcher, designer and engineer - currently a Research Assistant and a Graduate Student in the Viral Communications group at MIT Media Lab.
@@ -42,7 +42,7 @@ I'm interested in exploring the ways we communicate with people and objects in o
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data Analyst", "Business Intelligence", "Visual Analytics", "All about Data Science"],
+        strings: ["Data Analyst", "Visual Analytics", "Business Intelligence", " Artificial Intelligence", "Machine Learning","Data Science"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
