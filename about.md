@@ -22,7 +22,9 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
-See my [online CV](https://itsmecevi.github.io/)
+
+<a href="https://itsmecevi.github.io/">See my online CV</a>
+
 <br>
 <br>
 Extras: my key fields of interest
