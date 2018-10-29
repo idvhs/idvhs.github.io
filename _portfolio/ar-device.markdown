@@ -7,9 +7,9 @@ date: 2016-04-30
 ---
 
 <div class="img_row">
-	<a href="{{ site.baseurl }}/img/ar_device/img1.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img1.jpg" alt=""></a>
-	<a href="{{ site.baseurl }}/img/ar_device/img2.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img2.jpg" alt=""></a>
-	<a href="{{ site.baseurl }}/img/ar_device/img3.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img3.jpg" alt=""></a>
+	<a href="{{ site.baseurl }}/new/img/ar_device/img1.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img1.jpg" alt=""></a>
+	<a href="{{ site.baseurl }}/new/img/ar_device/img2.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img2.jpg" alt=""></a>
+	<a href="{{ site.baseurl }}/new/img/ar_device/img3.jpg"><img class="col one" src="{{ site.baseurl }}/img/ar_device/img3.jpg" alt=""></a>
 </div>
 <div class="img_row">
 
