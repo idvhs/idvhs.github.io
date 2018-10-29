@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
 
 <div>
-Hello, my name is Cevi Herdian. <span class="changing"></span> Enthusiast
+Hello, my name is Cevi Herdian. Im <span class="changing"></span> 
 <br>
 <br>
 I'm a cross disciplined researcher, designer and engineer - currently a Research Assistant and a Graduate Student in the Viral Communications group at MIT Media Lab.
