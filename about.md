@@ -12,12 +12,12 @@ Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 Practiced Data Analyst with more than 3 years of experience as working student and intern in extraction,
 transformation, loaded, statistical interpreting and visualizing various types of dataset.
-Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. Presently I learn the Data Science from scratch from Deutsche Bahn Data Science team as intern.
+Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
 <br>
-In the past I worked as a software engineer at Google.  
+Presently I learn the Data Science from scratch from Deutsche Bahn Data Science team as intern.
 <br>
 <br>
-I get a M.Sc (February 2019) in Financial Services-Risk Management from the HTW Berlin - University of Applied Sciences. My Specializing area is Data Analytics and Predictive Analytics
+I wil get a M.Sc (February 2019) in Financial Services-Risk Management from the HTW Berlin-University of Applied Sciences. My Specializing area in study is Data Analytics and Predictive Analytics
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
