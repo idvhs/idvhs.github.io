@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
+<img class="col one right" src="/new/img/cevi-min.JPG" style="padding:25px">
 
 <div>
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
