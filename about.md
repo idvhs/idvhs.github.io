@@ -10,15 +10,17 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
-I'm a cross disciplined researcher, designer and engineer - currently a Research Assistant and a Graduate Student in the Viral Communications group at MIT Media Lab.
+Practiced Data Analyst with more than 3 years of experience as working student and intern in extraction,
+transformation, loaded, statistical interpreting and visualizing various types of dataset.
+Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. Presently I learn the Data Science from scratch from Deutsche Bahn Data Science team as intern.
 <br>
 In the past I worked as a software engineer at Google.  
 <br>
 <br>
-I hold a B.Sc in Computer Science from the Hebrew University of Jerusalem, with a B.F.A in Ceramic Design from Bezalel Academy of Art and Design.  
+I get a M.Sc (February 2019) in Financial Services-Risk Management from the HTW Berlin - University of Applied Sciences. My Specializing area is Data Analytics and Predictive Analytics
 <br>
 <br>
-I'm interested in exploring the ways we communicate with people and objects in our surrounding environment.
+I'm interested in exploring the new methode or technology for better insight from data.
 
 
 <!--  <a class="page-link" target="_blank" href="{{ '/JasminRubinovitzCV_2017.pdf' | prepend: site.baseurl }}">Resume</a> -->
