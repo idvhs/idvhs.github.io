@@ -42,7 +42,7 @@ I'm interested in exploring the ways we communicate with people and objects in o
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data Analyst", "Business Intelligence", "Visual Analytics", "All about Data Science],
+        strings: ["Data Analyst", "Business Intelligence", "Visual Analytics", "All about Data Science"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
