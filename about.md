@@ -24,6 +24,17 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 I'm interested in exploring the new methode or technology for better insight from data.
 <br>
 <a href="https://itsmecevi.github.io/">See my online CV</a>
+	
+	
+	 <li>
+            <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i>My Github</a>
+          </li>
+          <li>
+            <a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i>My Linkedin</a>
+          </li>
+           <li>
+            <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i>My Xing</a>
+          </li>
 <!--
 <br>
 <br>
