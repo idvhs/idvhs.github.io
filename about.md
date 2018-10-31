@@ -24,13 +24,14 @@ I will get a M.Sc (February 2019) in Financial Services-Risk Management from the
 I'm interested in exploring the new methode or technology for better insight from data.
 <br>
 <a href="https://itsmecevi.github.io/">See my online CV</a>
+	<i class="fa fa-file" aria-hidden="true"></i>
 	
 	 <li>
-            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-id-badge fa-fw fa-2x">Curriculum Vitae</i></a>
+            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Curriculum Vitae</a>
           </li>
 	  
 	   <li>
-            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-id-badge fa-fw fa-2x">Lebenslauf</i></a>
+            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Lebenslauf</a>
           </li>
 	
 	 <li>
