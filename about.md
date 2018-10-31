@@ -25,6 +25,13 @@ I'm interested in exploring the new methode or technology for better insight fro
 <br>
 <a href="https://itsmecevi.github.io/">See my online CV</a>
 	
+	 <li>
+            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-id-badge fa-fw fa-2x">Curriculum Vitae</i></a>
+          </li>
+	  
+	   <li>
+            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-id-badge fa-fw fa-2x">Lebenslauf</i></a>
+          </li>
 	
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i>My Github</a>
