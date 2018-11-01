@@ -29,34 +29,57 @@ For thema Business Understanding I got some of Seminar, additional lectures , an
 Not only the concept but also the tools and a lot of workshop. Below are summarise from A-Z about HR analytics, methode, and tools.
 Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)
 
-#1. BIG DATA
+**#1. BIG DATA**
 
 The principle of Big Data works that the more you have data about anything or any situation, the more accurately you get new insights and make predictions about what will happen in the future. Also revealed new ways to understand trends in business and in our daily lives. By comparing more and more data and creating relationships that were previously hidden enable us to learn and make more smarter decisions on targeting business values such as sales, production, or financial situations. In this term, people analytics makes the company situation better that have positive feedback for the company self.
 
-#2. WORKFORCE ANALYTICS
+**#2. WORKFORCE ANALYTICS**
+<Br>
 Data Science to optimize human resource management (HRM).
 
-Why Workforce Analytics
+Why Workforce Analytics:
 <Br>
 -Industry is being disrupted
 <Br>
 -Talent is more mobile
+ <Br>
 -Study or WP:
+ <Br>
 +2014 PWC report
 +IBM report
 +Deloitte Global Human Capital Trends
 
 -Purpose of Business: increase market share and value
+<Br>
 -another institution or social : value
+  <Br>
 -KPMG study about data driven insights
+    <Br>
 -Finance , Marketing, or IT: number
+      <Br>
 -HR: words
 -insights exercise not a reporting makers
--HR, Workforce, and Strategy
+ 
+          
 
 
+**The example of this people analytics are below:
+
+**5 Things that HR Predictive Analytics will Actually Predict:**
+https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-predict/
+
+-Turnover modeling. It may be able to predict future turnover in your business in specific functions, business units, geographies and countries by looking at factors such as commute time, time since last role change, and performance over time. This means you can scale your hiring efforts accordingly, reducing empty desk time and panic hiring, which can lead to lower cost, higher quality hiring.
+
+-Recruitment advertising measurement. Response modeling for advertising jobs. You can use your experience from previous campaigns to avoid contacting candidates or using channels that don’t yield a response and focus on those channels that do work.
+
+-Targeted retention. Find out which employees or groups of employees are at high risk of churn in the future and focus retention activities on those who are more in need and reduce it in other areas where it is not needed as much.
+
+-Risk Management: develop a profile of candidates with a higher risk of leaving prematurely or performing below standard.
+
+-Talent Forecasting. Being able to predict which new hires, based on their profile, are likely to be high fliers and then moving them in to your high potential programs.
 
 
+**HR Analytics:Turnover Rate**
 
 
 You can use Gobo to control what’s edited out of your feed, or configure it to include news and points of view from outside your usual orbit. Gobo aims to be completely transparent, showing you why each post was included in your feed and inviting you to explore what was filtered out by your current filter settings.  Learn more and try it out on <a href="https://gobo.social">gobo.social</a>.
