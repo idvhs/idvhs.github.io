@@ -18,7 +18,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.
 Presently I learn Data Science from scratch from Deutsche Bahn Data Science team as intern (09.2018-02.2019).
 <br>
 <br>
-I will get a M.Sc (February 2019) in Financial Services-Risk Management from HTW Berlin-University of Applied Sciences. My Specializing area in study is Data Analytics (Descriptive, Predictive, and Prescriptive Analytics).
+I am postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Data Analytics (Descriptive, Predictive, and Prescriptive Analytics).
 <br>
 <br>
 I'm interested in exploring the new methode or technology for better insight from data.
