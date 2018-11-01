@@ -26,11 +26,11 @@ I'm interested in exploring the new methode or technology for better insight fro
 <br>
 	
 	 <li>
-    <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> Curriculum Vitae</a>
+    <a id="icon" href="https://itsmecevi.github.io/curriculum-vitae/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> Curriculum Vitae</a>
           </li>
 	  
 	   <li>
-            <a id="icon" href="https://itsmecevi.github.io/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> Lebenslauf</a>
+            <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i> Lebenslauf</a>
           </li>
 	
 	 <li>
