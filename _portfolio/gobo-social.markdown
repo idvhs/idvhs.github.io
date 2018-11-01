@@ -1,7 +1,7 @@
 ---
 layout: post
-title: PA
-description: Take control of your social media feed
+title: People Analytics
+description: Optimizing the people power
 img: /img/gobo/gobo2.jpg
 date: 2018-09-01
 ---
@@ -13,7 +13,7 @@ date: 2018-09-01
 </div>
 
 
-**PA:= People Analytics**
+
 
 Deutsche Bahn AG started more Data Science Project from this year, 2018. I work for HR Analytics under supervision of HR Manager of Deutsche Bahn AG. There are more than one life cycle that we know, but we focusing on data mining methode the CRISP-DM model (CRoss Industry Standard Process for Data Mining). 
 
