@@ -37,6 +37,7 @@ The principle of Big Data works that the more you have data about anything or an
 Data Science to optimize human resource management (HRM).
 
 Why Workforce Analytics
+<Br>
 -Industry is being disrupted
 <Br>
 -Talent is more mobile
