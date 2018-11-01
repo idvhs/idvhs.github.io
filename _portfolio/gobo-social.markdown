@@ -13,6 +13,8 @@ date: 2018-09-01
 </div>
 
 
+**PA:= People Analytics**
+
 Deutsche Bahn AG started more Data Science Project from this year, 2018. I work for HR Analytics under supervision of HR Manager of Deutsche Bahn AG. There are more than one life cycle that we know, but we focusing on data mining methode the CRISP-DM model (CRoss Industry Standard Process for Data Mining). 
 
 The CRISP model steps are:
@@ -35,7 +37,8 @@ The principle of Big Data works that the more you have data about anything or an
 Data Science to optimize human resource management (HRM).
 
 Why Workforce Analytics
---Industry is being disrupted
+-Industry is being disrupted
+<Br>
 -Talent is more mobile
 -Study or WP:
 +2014 PWC report
