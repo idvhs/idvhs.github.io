@@ -12,6 +12,7 @@ date: 2018-09-01
       <a href="{{ site.baseurl }}/img/gobo/gobo4.jpg"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo4.jpg" alt=""></a>
 </div>-->
 
+![Image name](https://gifimage.net/wp-content/uploads/2017/11/employee-gif-4.gif)
 <!--<img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>-->
 
 <img class="col one right" src="/img/db.jpg" style="padding:25px">
@@ -73,9 +74,6 @@ Why Workforce Analytics:
  
 
 **#3. HR PREDICTOR**
-
-
-https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-predict/
 <Br>
 -Turnover modeling 
 <Br>
@@ -91,22 +89,22 @@ https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-
 <Br>
   <a href=" https://www.python.org/">-Python</a>
   <Br>
--R: https://www.r-project.org/about.html
+    <a href="https://www.r-project.org/about.html">-R</a>
     <Br>
--Anaconda: https://www.anaconda.com/
+      <a href="https://www.anaconda.com/">-Anaconda</a>
       <Br>
--Tableau: https://www.tableau.com/
+         <a href="https://www.tableau.com/">-Tableau</a>
         <Br>
--Artificial Intelligence: https://en.wikipedia.org/wiki/Artificial_intelligence
+          <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">-Artificial Intelligence</a>
           <Br>
--Machine learning: https://en.wikipedia.org/wiki/Machine_learning
+            <a href="https://en.wikipedia.org/wiki/Machine_learning">-Applied AI=Machine learning</a>
             <Br>
--Staff Rostering methods: https://en.wikipedia.org/wiki/Schedule_(workplace)
+              <a href="https://en.wikipedia.org/wiki/Schedule_(workplace)">-Staff Rostering method</a>
 
 **#5. HR KPI (Key Performance Indicators)**
 
 **#6. HR Analytics: Turnover Rate**
-
+ <a href="">-</a>
 
 <a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
 
