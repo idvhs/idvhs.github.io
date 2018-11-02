@@ -107,13 +107,8 @@ Why Workforce Analytics:
   
 **#6. ONE PART OF HR ISSUES: Turnover Rate**
 
-** "You don't build a business. You build people, and people build the business." - Zig Ziglar**
-***
+**You don't build a business. You build people, and people build the business. - Zig Ziglar**
+<Br>
+  <Br>
 ![Image name](https://static1.squarespace.com/static/5144a1bde4b033f38036b7b9/t/56ab72ebbe7b96fafe9303f5/1454076676264/)
- 
-
-<a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
-
-<a href="http://www.ethanzuckerman.com/blog/2017/11/16/who-filters-your-news-why-we-built-gobo-social/"> Who Filters Your News? Why we built gobo.social </a> - Blog post by Ethan Zuckerman
-
-<a href="https://gobo.social">gobo.social</a>
+    
