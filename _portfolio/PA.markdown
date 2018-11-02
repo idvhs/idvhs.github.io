@@ -12,6 +12,7 @@ date: 2018-09-01
       <a href="{{ site.baseurl }}/img/gobo/gobo4.jpg"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo4.jpg" alt=""></a>
 </div>
 
+![Image name](https://gifimage.net/wp-content/uploads/2017/11/employee-gif-4.gif)
 
 Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company, with the Federal Republic of Germany being its single shareholder. People call Deutsche Bahn AG with DB.
 
