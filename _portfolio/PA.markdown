@@ -32,10 +32,7 @@ The CRISP model steps are:
 6. Deployment
 
 For theme Business Understanding I got some Seminar, additional lectures , and Business Process System from Deusche Bahn AG.
-Not only the concept but also the tools and a lot of workshops.
-
-
-Below are summarised from A-Z about HR analytics, method, and tools.
+Not only the concept but also the tools and a lot of workshops. Below are summarised from A-Z about HR analytics, method, and tools.
 
 **Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
@@ -74,7 +71,7 @@ Why Workforce Analytics:
 -insights exercise not a reporting makers
  
 
-**#3. HR PREDICTOR**
+**#3. SOME OF HR ISSUES**
 <Br>
 -Turnover modeling 
 <Br>
@@ -108,7 +105,11 @@ Why Workforce Analytics:
  <Br>
 *Please refresh the page or waiting a minute, because the server is a little bit slow.
   
-**#6. HR Analytics: Turnover Rate**
+**#6. ONE PART OF HR ISSUES: Turnover Rate**
+
+** "You don't build a business. You build people, and people build the business." - Zig Ziglar**
+***
+![Image name](https://static1.squarespace.com/static/5144a1bde4b033f38036b7b9/t/56ab72ebbe7b96fafe9303f5/1454076676264/)
  
 
 <a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
