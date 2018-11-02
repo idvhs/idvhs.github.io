@@ -36,7 +36,8 @@ Not only the concept but also the tools and a lot of workshops.
 
 
 Below are summarised from A-Z about HR analytics, method, and tools.
-Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)
+
+**Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
 **#1. BIG DATA**
 
