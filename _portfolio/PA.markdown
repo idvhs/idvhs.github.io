@@ -103,9 +103,11 @@ Why Workforce Analytics:
               <a href="https://en.wikipedia.org/wiki/Schedule_(workplace)">-Staff Rostering method</a>
 
 **#5. HR KPI (Key Performance Indicators)**
+*Please refresh the page or waiting a minute, because the server is a little bit slow.
+<a href="https://itsmecevi.github.io/dataviz-kpi/#/2018/06/03/human-resources">HR KPI</a>
 
 **#6. HR Analytics: Turnover Rate**
- <a href="">-</a>
+ 
 
 <a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
 
