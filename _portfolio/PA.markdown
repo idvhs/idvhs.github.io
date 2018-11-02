@@ -12,7 +12,7 @@ date: 2018-09-01
       <a href="{{ site.baseurl }}/img/gobo/gobo4.jpg"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo4.jpg" alt=""></a>
 </div>-->
 
-<img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>
+<!--<img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>-->
 
 <img class="col one right" src="/img/db.jpg" style="padding:25px">
 
