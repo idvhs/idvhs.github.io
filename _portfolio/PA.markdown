@@ -85,12 +85,19 @@ https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-
 -Talent Forecasting. Being able to predict which new hires, based on their profile, are likely to be high fliers and then moving them in to your high potential programs.
 
 **#4. TOOLS & METHODS**
+<Br>
 -Python: https://www.python.org/ 
+  <Br>
 -R: https://www.r-project.org/about.html
+    <Br>
 -Anaconda: https://www.anaconda.com/
+      <Br>
 -Tableau: https://www.tableau.com/
+        <Br>
 -Artificial Intelligence: https://en.wikipedia.org/wiki/Artificial_intelligence
+          <Br>
 -Machine learning: https://en.wikipedia.org/wiki/Machine_learning
+            <Br>
 -Staff Rostering methods: https://en.wikipedia.org/wiki/Schedule_(workplace)
 
 **#5. HR KPI (Key Performance Indicators)**
