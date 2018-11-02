@@ -13,9 +13,11 @@ date: 2018-09-01
 </div>
 
 
+Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company, with the Federal Republic of Germany being its single shareholder. People call Deutsche Bahn AG with DB.
 
+From this year (2018) DB started more Data Science Project. I work for HR Analytics in DB Headquarter in Berlin under supervision of HR Manager of Deutsche Bahn AG. Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data (wikipedia.com). 
 
-Deutsche Bahn AG started more Data Science Project from this year, 2018. I work for HR Analytics under supervision of HR Manager of Deutsche Bahn AG. There are more than one life cycle that we know, but we focusing on data mining methode the CRISP-DM model (CRoss Industry Standard Process for Data Mining). 
+When working with data science project, it is always important to follow a well-defined data science workflow. There are more than one life cycle that we know, but we focusing on data mining method the **CRISP-DM model** (CRoss Industry Standard Process for Data Mining). 
 
 The CRISP model steps are:
 1. Business Understanding
@@ -25,8 +27,11 @@ The CRISP model steps are:
 5. Evaluation and
 6. Deployment
 
-For thema Business Understanding I got some of Seminar, additional lectures , and Business Process Systeme from Deusche Bahn AG. 
-Not only the concept but also the tools and a lot of workshop. Below are summarise from A-Z about HR analytics, methode, and tools.
+For theme Business Understanding I got some Seminar, additional lectures , and Business Process System from Deusche Bahn AG.
+Not only the concept but also the tools and a lot of workshops.
+
+
+Below are summarised from A-Z about HR analytics, method, and tools.
 Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)
 
 **#1. BIG DATA**
@@ -43,12 +48,14 @@ Why Workforce Analytics:
 <Br>
 -Talent is more mobile
  <Br>
--Study or WP:
+-Study or research from business consulting:
  <Br>
 +2014 PWC report
+  <Br> 
 +IBM report
+    <Br>
 +Deloitte Global Human Capital Trends
-
+<Br>
 -Purpose of Business: increase market share and value
 <Br>
 -another institution or social : value
@@ -58,6 +65,7 @@ Why Workforce Analytics:
 -Finance , Marketing, or IT: number
       <Br>
 -HR: words
+        <Br>
 -insights exercise not a reporting makers
  
           
@@ -81,14 +89,6 @@ https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-
 
 **HR Analytics:Turnover Rate**
 
-
-You can use Gobo to control what’s edited out of your feed, or configure it to include news and points of view from outside your usual orbit. Gobo aims to be completely transparent, showing you why each post was included in your feed and inviting you to explore what was filtered out by your current filter settings.  Learn more and try it out on <a href="https://gobo.social">gobo.social</a>.
-
-To use Gobo, you link your Twitter and Facebook accounts to Gobo and choose a set of news publications that most closely resembles the news you follow online. Gobo retrieves recent posts from these social networks and lets you decide which ones you want to see. Want more posts from women? Adjust aslider to set the gender balance of your feed… or just click on the “mute all men” button and listen to the folks who often get shouted down in online dialogs. Want to broaden the perspectives in your feed? Move the politics slider from “my perspective” to “lots of perspectives” and Gobo introduces news stories from sources you might not otherwise find.
-
-Gobo retrieves posts from people you follow on Twitter and Facebook and analyzes them using simple machine learning-based filters. You can set those filters – seriousness, rudeness, virality, gender and brands – to eliminate some posts from your feed. The “politics” slider works differently, “filtering in”, instead of “filtering out” – if you set the slider towards “lots of perspectives”, our “news echo” algorithm will start adding in posts from media outlets that you likely don’t read every day.
-
-Gobo is a team effort I worked on together with Rahul Bhargava, Alexis Hope, Ethan Zuckerman and other talented people at the MIT Center for Civic Media with support from The Knight Foundation.
 
 <a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
 
