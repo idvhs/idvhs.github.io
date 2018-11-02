@@ -68,12 +68,8 @@ Why Workforce Analytics:
         <Br>
 -insights exercise not a reporting makers
  
-          
 
-
-**The example of this people analytics are below:**
-
-**5 Things that HR Predictive Analytics will Actually Predict:**
+**#3. 5 Things that HR Predictive Analytics will Actually Predict:**
 https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-predict/
 
 -Turnover modeling. It may be able to predict future turnover in your business in specific functions, business units, geographies and countries by looking at factors such as commute time, time since last role change, and performance over time. This means you can scale your hiring efforts accordingly, reducing empty desk time and panic hiring, which can lead to lower cost, higher quality hiring.
@@ -86,8 +82,11 @@ https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-
 
 -Talent Forecasting. Being able to predict which new hires, based on their profile, are likely to be high fliers and then moving them in to your high potential programs.
 
+**#4. TOOLS & METHODS**
 
-**HR Analytics:Turnover Rate**
+**#5. HR KPI (Key Performance Indicators)**
+
+**#6. HR Analytics: Turnover Rate**
 
 
 <a href="https://www.bostonmagazine.com/news/2017/11/12/ai-research-boston/">The robots are comming</a> - Gobo coverage on Boston Magazine
