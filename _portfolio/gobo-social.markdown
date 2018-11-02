@@ -71,7 +71,7 @@ Why Workforce Analytics:
           
 
 
-**The example of this people analytics are below:
+**The example of this people analytics are below:**
 
 **5 Things that HR Predictive Analytics will Actually Predict:**
 https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-predict/
