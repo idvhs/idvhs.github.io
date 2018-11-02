@@ -2,7 +2,7 @@
 layout: post
 title: People Analytics
 description: Optimizing the people power
-img: /img/gobo/gobo2.jpg
+img: /img/pa/pa.jpg
 date: 2018-09-01
 ---
 <!--
