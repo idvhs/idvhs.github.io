@@ -77,19 +77,19 @@ Why Workforce Analytics:
 
 https://www.recruiter.com/i/5-things-that-hr-predictive-analytics-will-actually-predict/
 <Br>
--Turnover modeling. It may be able to predict future turnover in your business in specific functions, business units, geographies and countries by looking at factors such as commute time, time since last role change, and performance over time. This means you can scale your hiring efforts accordingly, reducing empty desk time and panic hiring, which can lead to lower cost, higher quality hiring.
+-Turnover modeling 
 <Br>
--Recruitment advertising measurement. Response modeling for advertising jobs. You can use your experience from previous campaigns to avoid contacting candidates or using channels that don’t yield a response and focus on those channels that do work.
+-Recruitment advertising measurement
 <Br>
--Targeted retention. Find out which employees or groups of employees are at high risk of churn in the future and focus retention activities on those who are more in need and reduce it in other areas where it is not needed as much.
+-Targeted retention 
 <Br>
--Risk Management: develop a profile of candidates with a higher risk of leaving prematurely or performing below standard.
+-Risk Management
 <Br>
--Talent Forecasting. Being able to predict which new hires, based on their profile, are likely to be high fliers and then moving them in to your high potential programs.
+-Talent Forecasting
 
 **#4. TOOLS & METHODS**
 <Br>
--Python: https://www.python.org/ 
+  <a href=" https://www.python.org/">-Python</a>
   <Br>
 -R: https://www.r-project.org/about.html
     <Br>
