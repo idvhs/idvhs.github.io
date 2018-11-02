@@ -33,6 +33,11 @@ I'm interested in exploring the new methode or technology for better insight fro
             <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
 	    CV-DE</a>
           </li>
+	  
+	  <li>
+            <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
+	    CV-IND</a>
+          </li>
 	
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
