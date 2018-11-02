@@ -14,6 +14,8 @@ date: 2018-09-01
 
 <img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>
 
+<img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
+
 Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company, with the Federal Republic of Germany being its single shareholder. People call Deutsche Bahn AG with DB.
 
 From this year (2018) DB started more Data Science Project. I work for HR Analytics in DB Headquarter in Berlin under supervision of HR Manager of Deutsche Bahn AG. Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data (wikipedia.com). 
