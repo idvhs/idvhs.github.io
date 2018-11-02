@@ -5,16 +5,16 @@ description: Optimizing the people power
 img: /img/gobo/gobo2.jpg
 date: 2018-09-01
 ---
-
+<!--
 <div class="img_row">
   <a href="{{ site.baseurl }}/img/gobo/gobo1.png"><img class="col two" src="{{ site.baseurl }}/img/gobo/gobo1.png" alt=""></a>
-<!--     <a href="{{ site.baseurl }}/img/gobo/gobo3.png"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo3.png" alt=""></a> -->
+     <a href="{{ site.baseurl }}/img/gobo/gobo3.png"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo3.png" alt=""></a> 
       <a href="{{ site.baseurl }}/img/gobo/gobo4.jpg"><img class="col one" src="{{ site.baseurl }}/img/gobo/gobo4.jpg" alt=""></a>
-</div>
+</div>-->
 
 <img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>
 
-<img class="col one right" src="/img/cevi-min.JPG" style="padding:25px">
+<img class="col one right" src="/img/db.jpg" style="padding:25px">
 
 Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company, with the Federal Republic of Germany being its single shareholder. People call Deutsche Bahn AG with DB.
 
