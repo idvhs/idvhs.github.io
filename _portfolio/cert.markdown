@@ -6,9 +6,6 @@ img: /img/cert/cert.png
 date: 2016-12-01
 ---
 
-<div class="img_row">
-	<a href="{{ site.baseurl }}/new/img/cert/cert2.png"><img class="col one" src="{{ site.baseurl }}/img/cert/cert2.png" 
-</div>
 
 <img class="col one right" src="/img/cert2.png" style="padding:25px">
 
