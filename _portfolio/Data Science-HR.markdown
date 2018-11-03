@@ -6,7 +6,7 @@ img: /new/img/hr/hr1.png
 date: 2018-10-01
 ---
 
-**#HR ISSUES: Turnover Rate**
+**#HR ISSUE: Turnover Rate**
 
 **You don't build a business. You build people, and people build the business. - Zig Ziglar**
 <Br>
