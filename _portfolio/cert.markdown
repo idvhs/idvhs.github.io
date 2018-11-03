@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Certification Wiki
-description: Augmented Reality For Everyone
+description: You have the power to do more
 img: /new/img/cert/cert.png
 date: 2016-12-01
 ---
