@@ -23,55 +23,21 @@ From this year (2018) DB started more Data Science Project. I work for HR Analyt
 
 When working with data science project, it is always important to follow a well-defined data science workflow. There are more than one life cycle that we know, but we focusing on data mining method the **CRISP-DM model** (CRoss Industry Standard Process for Data Mining). 
 
-The CRISP model steps are:
-1. Business Understanding
-2. Data Understanding
-3. Data Preparation
-4. Modeling
-5. Evaluation and
-6. Deployment
-
 For theme Business Understanding I got some Seminar, additional lectures , and Business Process System from Deusche Bahn AG.
-Not only the concept but also the tools and a lot of workshops. Below are summarised from A-Z about HR analytics, method, and tools.
+Not only the concept but also the tools and a lot of workshops. Below are summarised from A-Z about HR analytics keywords, method, and tools.
 
 **Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
 **#1. BIG DATA**
 
-The principle of Big Data works that the more you have data about anything or any situation, the more accurately you get new insights and make predictions about what will happen in the future. Also revealed new ways to understand trends in business and in our daily lives. By comparing more and more data and creating relationships that were previously hidden enable us to learn and make more smarter decisions on targeting business values such as sales, production, or financial situations. In this term, people analytics makes the company situation better that have positive feedback for the company self.
+In this term, people analytics makes the company situation better that have positive feedback for the company self.
 
 **#2. WORKFORCE ANALYTICS**
 <Br>
 Data Science to optimize human resource management (HRM).
 <Br>
-Why Workforce Analytics:
-<Br>
--Industry is being disrupted
-<Br>
--Talent is more mobile
- <Br>
--Study or research from business consulting:
- <Br>
-+2014 PWC report
-  <Br> 
-+IBM report
-    <Br>
-+Deloitte Global Human Capital Trends
-<Br>
--Purpose of Business: increase market share and value
-<Br>
--another institution or social : value
-  <Br>
--KPMG study about data driven insights
-    <Br>
--Finance , Marketing, or IT: number
-      <Br>
--HR: words
-        <Br>
--insights exercise not a reporting makers
- 
 
-**#3. SOME OF HR ISSUES**
+**#3. HR ISSUES**
 <Br>
 -Turnover modeling 
 <Br>
@@ -101,8 +67,11 @@ Why Workforce Analytics:
 
 **#5. HR KPI (Key Performance Indicators)**
 
-<a href="https://itsmecevi.github.io/dataviz-kpi/#/2018/06/03/human-resources">Click here: HR KPI</a>
+<img class="col one right" src="/img/hr/hrplus.png" style="padding:25px">
+
+<a href="https://itsmecevi.github.io/dataviz-kpi/#/2018/06/03/human-resources">Click here: HR KPI Example</a>
  <Br>
 *Please refresh the page or waiting a minute, because the server is a little bit slow.
+  
   
 
