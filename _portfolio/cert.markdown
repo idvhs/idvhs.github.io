@@ -2,7 +2,7 @@
 layout: post
 title: Certification Wiki
 description: You have the power to do more
-img: /new/img/cert/cert.png
+img: /img/cert/cert.png
 date: 2016-12-01
 ---
 
