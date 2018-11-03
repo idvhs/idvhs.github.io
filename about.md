@@ -34,10 +34,10 @@ I'm interested in exploring the new ways or technology for better insight from d
 	    CV-DE</a>
           </li>
 	  
-	  <li>
+	  <!-- <li>
             <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
 	    CV-IND</a>
-          </li>
+          </li> -->
 	
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
