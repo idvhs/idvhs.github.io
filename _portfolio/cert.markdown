@@ -11,6 +11,7 @@ date: 2016-12-01
 
 My certification journey started december 2016. Having completed some modules, and attending a lot of self-taught experience—I felt that my ability and confident increased. 
 <Br>
+  <Br>
 There are a lot of free or some with a little money Online course. The online courses makes me more easily to learn at the university and in the exams.
 
 This is the site for all of my certification: <a href="https://certification.gitbook.io/cevi/">itsmecevi</a>
