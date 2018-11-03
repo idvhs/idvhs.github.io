@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DIY AR Device
-description: Augmented Reality For Everyone
+title: Data Science-HR
+description: Optimize the people power
 img: /new/img/hr/img4.jpg
 date: 2016-04-30
 ---
