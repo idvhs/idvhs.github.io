@@ -7,7 +7,7 @@ date: 2016-12-01
 ---
 
 
-<img class="col one right" src="/img/cert2.png" style="padding:25px">
+<img class="col one right" src="/img/cert/cert2.png" style="padding:25px">
 
 My certification journey started december 2016. Having completed some modules, and attending a lot of self-taught experience—I felt that my ability and confident increased. 
 <Br>
