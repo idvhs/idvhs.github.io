@@ -63,9 +63,8 @@ Data Science to optimize human resource management (HRM).
               <a href="https://en.wikipedia.org/wiki/Schedule_(workplace)">-Staff Rostering method</a>
 <Br>
 **#5. HR KPI (Key Performance Indicators)**
-
 <img class="col one right" src="/img/hr/hrplus.png" style="padding:25px">
-
+<Br>
 <a href="https://itsmecevi.github.io/dataviz-kpi/#/2018/06/03/human-resources">Click here: HR KPI Example</a>
  <Br>
 *Please refresh the page or waiting a minute, because the server is a little bit slow.
