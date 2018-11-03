@@ -3,7 +3,7 @@ layout: post
 title: Data Science-HR
 description: Unlock the power of data
 img: /new/img/hr/hr1.png
-date: 2016-04-30
+date: 2018-10-01
 ---
 
 **#HR ISSUES: Turnover Rate**
