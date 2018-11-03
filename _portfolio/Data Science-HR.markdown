@@ -2,7 +2,7 @@
 layout: post
 title: Data Science-HR
 description: Unlock the power of data
-img: /new/img/hr/hr1.jpg
+img: /new/img/hr/hr1.png
 date: 2016-04-30
 ---
 
