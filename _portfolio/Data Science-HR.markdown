@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science-HR
-description: Optimizing the people power
+description: Unlock the power of data
 img: /new/img/hr/img4.jpg
 date: 2016-04-30
 ---
