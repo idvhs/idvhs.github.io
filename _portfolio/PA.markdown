@@ -26,15 +26,15 @@ Not only the concept but also the tools and a lot of workshops. Below are summar
 
 **Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
-**#1. BIG DATA**
+**#1. BIG DATA:**
 <Br>
 In this term, people analytics makes the company situation better that have positive feedback for the company self.
 <Br>
-**#2. WORKFORCE ANALYTICS**
+**#2. WORKFORCE ANALYTICS:**
 <Br>
 Data Science to optimize human resource management (HRM).
 <Br>
-**#3. HR ISSUES**
+**#3. HR ISSUES:**
 <Br>
 -Turnover modeling 
 <Br>
@@ -48,7 +48,7 @@ Data Science to optimize human resource management (HRM).
 <Br>
 **#4. TOOLS & METHODS**
 <Br>
-  <a href=" https://www.python.org/">-Python</a>
+  <a href="https://www.python.org/">-Python</a>
   <Br>
     <a href="https://www.r-project.org/about.html">-R</a>
     <Br>
