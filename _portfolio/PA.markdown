@@ -19,9 +19,7 @@ date: 2018-09-01
 
 Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a private joint-stock company, with the Federal Republic of Germany being its single shareholder. People call Deutsche Bahn AG with DB.
 
-From this year (2018) DB started more Data Science Project. I work for HR Analytics in DB Headquarter in Berlin under supervision of HR Manager of Deutsche Bahn AG. Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data (wikipedia.com). 
-
-When working with data science project, it is always important to follow a well-defined data science workflow. There are more than one life cycle that we know, but we focusing on data mining method the **CRISP-DM model** (CRoss Industry Standard Process for Data Mining). 
+From this year (2018) DB started more Data Science Project. I work for HR Analytics in DB Headquarter in Berlin under supervision of HR Manager of Deutsche Bahn AG. When working with data science project, it is always important to follow a well-defined data science workflow. There are more than one life cycle that we know, but we focusing on data mining method the **CRISP-DM model** (CRoss Industry Standard Process for Data Mining). 
 
 For theme Business Understanding I got some Seminar, additional lectures , and Business Process System from Deusche Bahn AG.
 Not only the concept but also the tools and a lot of workshops. Below are summarised from A-Z about HR analytics keywords, method, and tools.
@@ -29,14 +27,13 @@ Not only the concept but also the tools and a lot of workshops. Below are summar
 **Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
 **#1. BIG DATA**
-
+<Br>
 In this term, people analytics makes the company situation better that have positive feedback for the company self.
-
+<Br>
 **#2. WORKFORCE ANALYTICS**
 <Br>
 Data Science to optimize human resource management (HRM).
 <Br>
-
 **#3. HR ISSUES**
 <Br>
 -Turnover modeling 
@@ -48,7 +45,7 @@ Data Science to optimize human resource management (HRM).
 -Risk Management
 <Br>
 -Talent Forecasting
-
+<Br>
 **#4. TOOLS & METHODS**
 <Br>
   <a href=" https://www.python.org/">-Python</a>
@@ -64,7 +61,7 @@ Data Science to optimize human resource management (HRM).
             <a href="https://en.wikipedia.org/wiki/Machine_learning">-Applied AI=Machine learning</a>
             <Br>
               <a href="https://en.wikipedia.org/wiki/Schedule_(workplace)">-Staff Rostering method</a>
-
+<Br>
 **#5. HR KPI (Key Performance Indicators)**
 
 <img class="col one right" src="/img/hr/hrplus.png" style="padding:25px">
