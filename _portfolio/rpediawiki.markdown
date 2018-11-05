@@ -11,7 +11,7 @@ date: 2013-10-01
 
 I learn R programming from Okt. 2013. My Prof was Prof. Dr Beate Bergter.
 <Br>
-She teached me how to using R Programming with R Studio IDE (Integrated Development Environment) in all statistics courses (Descriptive statistics, Probability, and Inferential statistics) and analytics (Descriptive, Diagnostic, Predictive, and Prescriptive Analytics)
+She teached me how to using R Programming with R Studio IDE (Integrated Development Environment) in all statistics courses (Descriptive statistics, Probability, and Inferential statistics) and analytics (Planing Analytics, Descriptive, Diagnostic, Predictive, and Prescriptive Analytics)
 <Br>
 <Br>
 
