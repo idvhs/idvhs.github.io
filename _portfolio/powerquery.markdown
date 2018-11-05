@@ -10,7 +10,7 @@ date: 2017-03-01
 
 # What is Power Query?
 <Br>
-Power Query is a data connection technology that enables you to discover, connect, combine, and refine data sources to meet your analysis needs.
+Power Query is a data connection technology that enables you to discover, connect, combine, and refine data sources to meet your analysis needs. More about power Query: <a href="https://support.office.com/en-us/article/power-query-overview-and-learning-ed614c81-4b00-4291-bd3a-55d80767f81d">Power Query</a> 
 <Br>
 <Br>
 I learn Power Query during my work as working student from September 2016 at HTW Berlin-University of Applied Sciences. 
