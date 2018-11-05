@@ -30,14 +30,14 @@ I works with two of them Tableau and Power BI.
 But I adapt to new concepts and software quickly.
 
 
-# KPI Dashboard with Tableau:
+#KPI Dashboard with Tableau:
  <img class="col one right" src="/img/tableau/tableau.jpg" style="padding:25px">
 <Br>
  This is my Tableau Visualization site:<a href="https://public.tableau.com/profile/cevi.herdian#!/">Tableau-Cevi</a>
  
  
  
- # KPI Dashboard with Power BI:
+ #KPI Dashboard with Power BI:
  <img class="col one right" src="/img/powerbi/powerbi.png" style="padding:25px">
 <Br>
  This site is my Power BI Visualization example:<a href="https://itsmecevi.github.io/dataviz-kpi/">DataViz-KPI</a>
