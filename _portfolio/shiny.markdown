@@ -2,7 +2,7 @@
 layout: post
 title: R-Shiny
 description: Easy web applications in R
-img: /img/shiny/rshinylogo.jpg
+img: /img/shiny/rshinylogo.png
 date: 2018-03-01
 ---
 <img class="center" src="/img/shiny/shinyapp.png" style="padding:25px">
