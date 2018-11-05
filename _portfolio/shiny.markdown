@@ -16,6 +16,6 @@ I learn R-Shiny during my times series course at the University in Sommer term 2
 Read more Shiny at: <a href="https://www.rstudio.com/products/shiny/"> R-Shiny</a>
 
 
-<img class="col one right" src="/img/shiny/shiny.jpg" style="padding:25px">
+<img class="col one right" src="/img/shiny/shinybyr.png" style="padding:25px">
 <Br>
  This is my R-Shiny project web apps:<a href="https://itsmecevi.github.io/r-shiny-app/"> R-Shiny-Cevi</a>
