@@ -16,6 +16,6 @@ Power Query is a data connection technology that enables you to discover, connec
 I learn Power Query during my work as working student from September 2016 at HTW Berlin-University of Applied Sciences. 
 <Br> My project is to automate my University reporting for Federal Statistical Office of Germany.
 
-<img class="center" src="/img/pq/pq3.png" style="padding:15px">
+<img class="left" src="/img/pq/pq3.png" style="padding:25px">
 
  
