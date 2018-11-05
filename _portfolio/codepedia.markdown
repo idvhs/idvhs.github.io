@@ -13,7 +13,7 @@ I learn some of software and programming such as:
  <Br>
 *Macro-VBA
   <Br>
-*Power Query / M Formula language
+*Power Query / M Formula language (Functional Programming)
    <Br>
 *Data Model & DAX (Data analysis expressions)
     <Br>
