@@ -2,7 +2,7 @@
 layout: post
 title: Codepedia
 description: Coding is awesome
-img: /img/codepedia/code1.png
+img: /img/codepedia/code4.png
 date: 2016-10-01
 ---
 
