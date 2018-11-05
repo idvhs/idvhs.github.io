@@ -12,6 +12,7 @@ date: 2017-03-01
 <Br>
 Power Query is a data connection technology that enables you to discover, connect, combine, and refine data sources to meet your analysis needs. Power Query has programming language call M. 
  <Br>
+  <Br>
 The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#.  More about power Query: <a href="https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference">Power Query M Reference</a> 
 <Br>
 <Br>
