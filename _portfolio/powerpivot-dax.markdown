@@ -14,7 +14,7 @@ Power Pivot is an Excel add-in you can use to perform powerful data analysis and
 <Br>
  <Br>
 Power Pivot has DAX (Data Analysis Expressions) as data modelling tools (Functional Programming). 
-ou can use DAX to define custom calculations for Calculated Columns and for Measures (also known as calculated fields). DAX includes some of the functions used in Excel formulas, and additional functions designed to work with relational data and perform dynamic aggregation. More about DAX:<a href="https://msdn.microsoft.com/en-us/query-bi/dax/dax-function-reference">DAX</a>
+ou can use DAX to define custom calculations for Calculated Columns and for Measures (also known as calculated fields). DAX includes some of the functions used in Excel formulas, and additional functions designed to work with relational data and perform dynamic aggregation. More about DAX:<a href="https://msdn.microsoft.com/en-us/query-bi/dax/dax-function-reference"> DAX</a>
 <Br>
 <Br>
 I learn Power Pivot and DAX formula during my work as working student from September 2016 at HTW Berlin-University of Applied Sciences.
