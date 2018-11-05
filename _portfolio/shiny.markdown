@@ -5,7 +5,7 @@ description: Easy web applications in R
 img: /img/shiny/shiny.jpg
 date: 2018-03-01
 ---
-
+<img class="center" src="/img/shiny/shinyapp.png" style="padding:25px">
 # What is Shiny in R?:
 Shiny is an open source R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
 <Br>
