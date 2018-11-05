@@ -3,10 +3,10 @@ layout: post
 title: Power Query
 description: The Best Transformation and Data Manipulation Tool for Excel
 img: /img/pq/pq1.jpg
-date: 2017-12-01
+date: 2017-03-01
 ---
 
-<img class="center" src="/img/pq/pq2.png" style="padding:25px">
+<img class="center" src="/img/pq/pq2.PNG" style="padding:25px">
 
 # What is Power Query?
 <Br>
