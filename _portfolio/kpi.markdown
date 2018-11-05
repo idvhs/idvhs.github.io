@@ -35,6 +35,8 @@ But I adapt to new concepts and software quickly.
 <Br>
  This is my Tableau Visualization site:<a href="https://public.tableau.com/profile/cevi.herdian#!/">Tableau-Cevi</a>
  
+ 
+ 
  # KPI Dashboard with Power BI:
  <img class="col one right" src="/img/powerbi/powerbi.png" style="padding:25px">
 <Br>
