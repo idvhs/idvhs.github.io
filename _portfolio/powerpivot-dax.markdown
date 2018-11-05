@@ -2,7 +2,7 @@
 layout: post
 title: Power Pivot-DAX
 description: Powerful data analysis and data modeling in Excel
-img: /img/pq/pp1.png
+img: /img/pp/pp1.png
 date: 2017-03-01
 ---
 
