@@ -18,4 +18,5 @@ I learn Power Query during my work as working student from September 2016 at HTW
 
 <img class="left" src="/img/pq/pq3.png" style="padding:25px">
 
+
  
