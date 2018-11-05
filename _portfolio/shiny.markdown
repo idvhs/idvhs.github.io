@@ -7,9 +7,8 @@ date: 2018-03-01
 ---
 
 # What is Shiny in R?:
-Shiny is an open source R package that provides an elegant and powerful web framework for building web applications using R.
+Shiny is an open source R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
 <Br>
-Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
 <Br>
 I learn R-Shiny during my times series course at the University in Sommer term 2018
 <Br>
