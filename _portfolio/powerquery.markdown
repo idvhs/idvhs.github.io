@@ -2,7 +2,7 @@
 layout: post
 title: Power Query
 description: The Best Transformation and Data Manipulation Tool for Excel
-img: /img/pq/pq1.jpg
+img: /img/pq/pq4.png
 date: 2017-03-01
 ---
 
