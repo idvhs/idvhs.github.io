@@ -11,7 +11,7 @@ date: 2015-05-01
 
 # What is KPI (Key Performance Indicators)?
 <Br>
-Key Performance Indicators (KPIs) are the critical (key) indicators or measurement to evaluate the success of a department or organization.
+Key Performance Indicators (KPIs) are the critical (key) indicators or measurement to check the success of a department or organization.
 <Br>
 Each business or department have different KPIs because they all have different tasks and goals. 
 <Br>
