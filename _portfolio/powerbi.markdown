@@ -6,11 +6,11 @@ img: /img/powerbi/powerbi.png
 date: 2016-12-01
 ---
 
-# What is BI (Business Intelligence)?:
+# What is BI (Business Intelligence)?
 <img class="center" src="/img/bi/BI.PNG" style="padding:25px">
 
 
-# What is Power BI?:
+# What is Power BI?
 <Br>
 Tableau is the business intelligence platform that turns your data into insights that drive action. 
 <Br>
