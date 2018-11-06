@@ -28,7 +28,7 @@ I learn some of software and programming such as:
 *Python
 <Br>
 <Br>
-The code documentation is the backbone of every application or programming language. Thats why I creating my personal codepedia.
+The code documentation is the backbone of every application or programming language. That's why I creating my personal codepedia (Wikipedia of my code).
 <img class="col one right" src="/img/codepedia/code2.PNG" style="padding:25px">
 <Br>
  <Br>
