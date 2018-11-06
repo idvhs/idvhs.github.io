@@ -42,5 +42,5 @@ But I adapt to new concepts and software quickly.
 <Br>
  This site is my Power BI visualization example:<a href="https://itsmecevi.github.io/dataviz-kpi/"> DataViz-KPI</a>
  <Br>
- *Please refresh the page or waiting a minute, because the server is a little bit slow.
+ *Please refresh the page or waiting a minute, because the server is running slow.
  
