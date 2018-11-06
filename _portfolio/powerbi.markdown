@@ -24,4 +24,4 @@ Read more at: <a href="https://powerbi.microsoft.com/en-us/"> powerbi.com</a>
 <Br>
  This site is my Power BI Visualization example:<a href="https://itsmecevi.github.io/dataviz-kpi/">DataViz-KPI</a>
  <Br>
- *Please refresh the page or waiting a minute, because the server is a little bit slow.
+ *Please refresh the page or waiting a minute, because the server is Running slow.
