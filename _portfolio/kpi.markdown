@@ -9,7 +9,7 @@ date: 2015-05-01
 <iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 
 
-# What is KPI (Key Performance Indicators)?:
+# What is KPI (Key Performance Indicators)?
 <Br>
 Key Performance Indicators (KPIs) are the critical (key) indicators or measurement to evaluate the success of a department or organization.
 <Br>
