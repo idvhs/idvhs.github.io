@@ -67,7 +67,7 @@ Data Science to optimize human resource management (HRM).
 <Br>
 <a href="https://itsmecevi.github.io/dataviz-kpi/#/2018/06/03/human-resources">Click here: HR KPI Example</a>
  <Br>
-*Please refresh the page or waiting a minute, because the server is a little bit slow.
+*Please refresh the page or waiting a minute, because the server is Running slow.
   
   
 
