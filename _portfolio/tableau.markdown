@@ -6,11 +6,11 @@ img: /img/tableau/tableau.jpg
 date: 2017-01-01
 ---
 
-# What is BI (Business Intelligence)?:
+# What is BI (Business Intelligence)?
 <img class="center" src="/img/bi/BI.PNG" style="padding:25px">
 
 
-# What is Tableau?:
+# What is Tableau?
 <Br>
 Tableau is the business intelligence platform that turns your data into insights that drive action. 
 <Br>
@@ -20,4 +20,4 @@ Read more at: <a href="https://www.tableau.com/products/what-is-tableau#pRPcizOo
 
 <img class="col one right" src="/img/tableau/tableau.jpg" style="padding:25px">
 <Br>
- This is my Tableau visualization site:<a href="https://public.tableau.com/profile/cevi.herdian#!/">Tableau-Cevi</a>
+ This is my Tableau visualization site:<a href="https://public.tableau.com/profile/cevi.herdian#!/"> Tableau-Cevi</a>
