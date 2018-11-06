@@ -10,10 +10,10 @@ date: 2017-03-01
 
 # What is Power Query?
 <Br>
-Power Query is a data connection technology that enables you to discover, connect, combine, and refine data sources to meet your analysis needs. Power Query has programming language call M. 
+Power Query is a data connection technology that enables you to discover, connect, combine, and refine data sources to meet your analysis needs. Read more at: <a href="https://support.office.com/en-us/article/introduction-to-microsoft-power-query-for-excel-6e92e2f4-2079-4e1f-bad5-89f6269cd605"> Power Query</a> 
  <Br>
   <Br>
-The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#.  More about power Query: <a href="https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference">Power Query M Reference</a> 
+Power Query has programming language call M. The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#.  More about power Query: <a href="https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference">Power Query M Reference</a> 
 <Br>
 <Br>
 I learn Power Query during my work as working student from September 2016 at HTW Berlin-University of Applied Sciences.
