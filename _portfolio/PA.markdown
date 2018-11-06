@@ -21,8 +21,8 @@ Deutsche Bahn AG is a German railway company. Headquartered in Berlin, it is a p
 
 From this year (2018) DB started more Data Science Project. I work for HR Analytics in DB Headquarter in Berlin under supervision of HR Manager of Deutsche Bahn AG. When working with data science project, it is always important to follow a well-defined data science workflow. There are more than one life cycle that we know, but we focusing on data mining method the **CRISP-DM model** (CRoss Industry Standard Process for Data Mining). 
 
-For theme Business Understanding I got some Seminar, additional lectures , and Business Process System from Deusche Bahn AG.
-Not only the concept but also the tools and a lot of workshops. Below are summarised from A-Z about HR analytics keywords, method, and tools.
+For theme Business Understanding I got some Seminar,Lectures , and Business Process System from Deusche Bahn AG.
+Not only the concept but also the tools and a lot of workshops. Below are Summary from A-Z about HR analytics keywords, method, and tools.
 
 **Note: This summary isn't the real situation in Deutsche Bahn AG (data protection information rule)**
 
