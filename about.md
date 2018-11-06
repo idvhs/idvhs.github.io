@@ -15,10 +15,10 @@ transformation, loaded, statistical interpreting and visualizing various types o
 Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
 <br>
 <br>
-Presently I learn Data Science from scratch from Deutsche Bahn Data Science team as intern (09.2018-02.2019).
+Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.
 <br>
 <br>
-I am postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive Analytics, and Applied AI=Machine learning).
+I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive Analytics, and Applied AI=Machine learning).
 <br>
 <br>
 I'm interested in exploring the new ways or technology for better insight from data.
