@@ -28,8 +28,8 @@ I learn some of software and programming such as:
 *Python
 <Br>
 <Br>
-The code documentation is the backbone of every application or programming language. That's why I creating my personal codepedia (Wikipedia of my code).
+The code documentation is the backbone of every application or programming language. That's why I creating my personal codepedia (wikipedia of my code).
 <img class="col one right" src="/img/codepedia/code2.PNG" style="padding:25px">
 <Br>
  <Br>
- This is my codepedia site:<a href="https://codepedia.gitbook.io/cevi/"> Codepedia-Cevi</a>
+ This is my codepedia site:<a href="https://codepedia.gitbook.io/cevi/"> codepedia-cevi</a>
