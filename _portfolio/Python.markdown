@@ -3,7 +3,7 @@ layout: post
 title: Python for Data Science
 description: Coding is awesome
 img: /img/codepedia/code4.png
-date: 2016-10-01
+date: 2018-10-01
 ---
 
 <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
