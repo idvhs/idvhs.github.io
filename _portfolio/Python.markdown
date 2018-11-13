@@ -6,30 +6,13 @@ img: /img/codepedia/code4.png
 date: 2018-10-01
 ---
 
-<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
-I learn some of software and programming such as:
+<img class="center" src="/img/pi/python.png" style="padding:25px">
+
+I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team from Deutsche told me to learn not only R but also Python. R and Python are widely used and both have own strong capability. There are more tutorials or courses available on the internet. One of the best course are come from IBM. It's free and at the end we have certified if we pass the exam. Below are my documentation about the courses
+
+** Python for Data Science: 
 <Br>
-*Microsoft Excel
+<Br>
+ * Module 1-Python Basics
  <Br>
-*Macro-VBA
-  <Br>
-*Power Query / M Formula language (Functional Programming)
-   <Br>
-*Data Model & DAX (Data analysis expressions)
-    <Br>
-*Microsoft Power BI
-     <Br>
-*Tableau
-      <Br>
-*SQL 
-       <Br>
-*R Programming
-        <Br>
-*Python
-<Br>
-<Br>
-The code documentation is the backbone of every application or programming language. That's why I creating my personal codepedia (wikipedia of my code).
-<img class="col one right" src="/img/codepedia/code2.PNG" style="padding:25px">
-<Br>
- <Br>
- This is my codepedia site:<a href="https://codepedia.gitbook.io/cevi/"> codepedia-cevi</a>
+  * Module 2- Python Data Structures
