@@ -12,7 +12,6 @@ I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team
 
 ### Python for Data Science: 
 <Br>
-<Br>
  * Module 1-Python Basics
  <Br>
   * Module 2- Python Data Structures
