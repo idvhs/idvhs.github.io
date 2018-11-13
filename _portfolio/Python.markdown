@@ -8,9 +8,9 @@ date: 2018-10-01
 
 <img class="center" src="/img/pi/python2.png" style="padding:25px">
 
-I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team from Deutsche told me to learn not only R but also Python. R and Python are widely used and both have own strong capability. 
+I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team from Deutsche told me to learn not only R but also Python. R and Python are widely used and both have own strong ability. 
 
-There are huge tutorials or courses available on the internet. One of the best course are come from IBM. It's free and at the end we have certified if we pass the exam. Below are my documentation about the courses
+There are huge tutorials or courses available on the internet. One of the best course are from IBM. It's free and at the end we have certified if we pass the exam. Below are my documentation about the courses.
 
 ### Python for Data Science: 
 <Br>
