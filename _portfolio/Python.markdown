@@ -28,7 +28,7 @@ from kaggle.com (DATAI team)
 <Br>
  [-Data Scientist-1. Introduction to Python](https://itsmecevi.github.io/Data-Scientist-1.-Introduction-to-Python/)
  <Br>
- [-Data Scientist-2. Python Data Science Toolbox]()
+ [-Data Scientist-2. Python Data Science Toolbox](https://itsmecevi.github.io/Data-Scientist-2.-Python-Data-Science-Toolbox/)
  <Br>
  [-Data Scientist-3. Cleaning Data](https://itsmecevi.github.io/Data-Scientist-3.-Cleaning-Data/)
  <Br>
