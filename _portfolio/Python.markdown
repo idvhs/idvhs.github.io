@@ -28,7 +28,7 @@ There are huge tutorials or courses available on the internet. One of the best c
  <Br>
  [-Data Scientist-3. Cleaning Data]()
  <Br>
- [-Data Scientist-4. Pandas Foundations]()
+ [-Data Scientist-4. Pandas Foundations](https://itsmecevi.github.io/Data-Scientist-4.-Pandas-Foundations/)
   <Br>
  [-Data Scientist-5. Manipulating Data Frames with Pandas]()
  
