@@ -12,7 +12,9 @@ I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team
 
 There are huge tutorials or courses available on the internet. One of the best course are from IBM. It's free and at the end we have certified if we pass the exam. Another source is kaggle.com with motto "A Home for Data Science". Below are my documentation about the courses.
 
-### Python for Data Science: from IBM cognitiveclass.ai
+### Python for Data Science: 
+<Br>
+from IBM cognitiveclass.ai
 <Br>
  [-Module 1-Python Basics](https://itsmecevi.github.io/Module-1-Python-Basics/)
  <Br>
@@ -20,9 +22,11 @@ There are huge tutorials or courses available on the internet. One of the best c
 
 
 
-### Data Science Tutorial for Beginners: from kaggle.com (DATAI team)
+### Data Science Tutorial for Beginners: 
 <Br>
- [-Data Scientist-1. Introduction to Python]()
+from kaggle.com (DATAI team)
+<Br>
+ [-Data Scientist-1. Introduction to Python](https://itsmecevi.github.io/Data-Scientist-1.-Introduction-to-Python/)
  <Br>
  [-Data Scientist-2. Python Data Science Toolbox]()
  <Br>
