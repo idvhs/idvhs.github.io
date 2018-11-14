@@ -15,5 +15,14 @@ There are huge tutorials or courses available on the internet. One of the best c
 ### Python for Data Science: 
 <Br>
  [-Module 1-Python Basics](https://itsmecevi.github.io/Module-1-Python-Basics/)
-  
+ <Br>
  [-Module 2- Python Data Structures]()
+
+
+
+### Data Science Tutorial for Beginners: 
+<Br>
+ [-Data Scientist-1. Introduction to Python]()
+ [-Data Scientist-2. Python Data Science Toolbox]()
+ 
+ 
