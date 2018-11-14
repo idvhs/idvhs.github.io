@@ -23,6 +23,13 @@ There are huge tutorials or courses available on the internet. One of the best c
 ### Data Science Tutorial for Beginners: 
 <Br>
  [-Data Scientist-1. Introduction to Python]()
+ <Br>
  [-Data Scientist-2. Python Data Science Toolbox]()
+ <Br>
+ [-Data Scientist-3. Cleaning Data]()
+ <Br>
+ [-Data Scientist-4. Pandas Foundations]()
+  <Br>
+ [-Data Scientist-5. Manipulating Data Frames with Pandas]()
  
  
