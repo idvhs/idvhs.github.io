@@ -16,7 +16,7 @@ There are huge tutorials or courses available on the internet. One of the best c
 <Br>
 from IBM cognitiveclass.ai
 <Br>
- [-Module 1-Python Basics](https://itsmecevi.github.io/Module-1-Python-Basics/)
+ [-Module 1-Python Basics](https://itsmecevi.github.io/Python-for-Data-Science-Module-1-Python-Basics/)
  <Br>
  [-Module 2-Python Data Structures](https://itsmecevi.github.io/Python-for-Data-Science-Module-2-Python-Data-Structures/)
 
