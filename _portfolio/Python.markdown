@@ -18,7 +18,7 @@ from IBM cognitiveclass.ai
 <Br>
  [-Module 1-Python Basics](https://itsmecevi.github.io/Module-1-Python-Basics/)
  <Br>
- [-Module 2- Python Data Structures]()
+ [-Module 2-Python Data Structures](https://itsmecevi.github.io/Python-for-Data-Science-Module-2-Python-Data-Structures/)
 
 
 
