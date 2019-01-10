@@ -7,23 +7,23 @@ date: 2019-01-07
 ---
 
 <iframe src="https://giphy.com/embed/oy3Znktpsp3o2eeS2V" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oc-density-timeseries-oy3Znktpsp3o2eeS2V">via GIPHY</a></p>
-
+<Br>
  Vortrag über Zeitreihenanalyse 2 WS2018/209 an der Modul von <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=569"> Prof. Dr. Monika Kummer </a>
- 
+ <Br>
  Präsentation am 7.1. gemäß Tabelle unten
- 
+ <Br>
  * Zeitreihe selbst wählen
- 
+ <Br>
  * Grafische Darstellung
- 
+ <Br>
  * Ein bis zwei Modelle zur Beschreibung der Zeitreihe anpassen 
- 
+ <Br>
  * Prognose für mindestens zwei weitere Zeitpunkte 
- 
+ <Br>
  * Grafik mit eingezeichnetem Modell 
- 
+ <Br>
  * Güte des Modells 
- 
+ <Br>
  * Untersuchung der Residuen z.B. Histogramm, QQ-Plot, Tests auf Normalverteilung 
- 
+ <Br>
  <img class="col one right" src="/img/ts/ts.png" style="padding:25px">
