@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zeitreihenanalyse (Deutsch)
+title: Zeitreihenanalyse-DE
 description: Presentation und Uni Bericht USA Home Sales
 img: /img/codepedia/code4.png
 date: 2019-01-07
@@ -12,12 +12,18 @@ date: 2019-01-07
  
  Präsentation am 7.1. gemäß Tabelle unten
  
- * Zeitreihe selbst wählen 
- * Grafische Darstellung 
+ * Zeitreihe selbst wählen
+ 
+ * Grafische Darstellung
+ 
  * Ein bis zwei Modelle zur Beschreibung der Zeitreihe anpassen 
+ 
  * Prognose für mindestens zwei weitere Zeitpunkte 
+ 
  * Grafik mit eingezeichnetem Modell 
+ 
  * Güte des Modells 
+ 
  * Untersuchung der Residuen z.B. Histogramm, QQ-Plot, Tests auf Normalverteilung 
  
  <img class="col one right" src="/img/ts/ts.png" style="padding:25px">
