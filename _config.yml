@@ -21,3 +21,5 @@ collections:
   portfolio:
     output: true
     permalink: /projects/:path/
+
+theme: jekyll-theme-minimal
