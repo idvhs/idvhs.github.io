@@ -9,7 +9,7 @@ date: 2013-10-01
 <iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
 <Br>
 
-I learn R programming from Oct. 2013 till now. My Prof was <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=9212">Prof. Dr Beate Bergter</a>.
+I learn R programming from Oct. 2013 (till now). My Prof was <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=9212">Prof. Dr Beate Bergter</a>.
 <Br>
 She teached me how to using R Programming with R Studio IDE (Integrated Development Environment) in all statistics courses (Descriptive statistics, Probability, and Inferential statistics).
 <Br>
