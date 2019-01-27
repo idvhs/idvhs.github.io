@@ -3,7 +3,7 @@ layout: post
 title: Power Pivot-DAX
 description: Powerful data analysis and data modeling in Excel
 img: /img/pp/pp1.png
-date: 2017-03-01
+date: 2016-10-01
 ---
 
 <img class="left" src="/img/pp/pp2.png" style="padding:15px">
