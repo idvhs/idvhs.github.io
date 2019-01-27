@@ -1,0 +1,52 @@
+---
+title: "OpenRefine 101"
+subtitle: "Summarizing series from excellent authors"
+author: "Cevi Herdian, B. Sc"
+date: "27.12.2018"
+output:
+  html_notebook:
+    code_folding: hide
+    highlight: pygments
+    theme: cosmo
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+---
+
+**Note:**
+
+-An R Notebook is an R Markdown document with chunks that can be executed independently and interactively, with output visible immediately beneath the input.
+
+-Notebook output are available as HTML, PDF, Word, or Latex. 
+
+-This Notebook as HTML is preferably open with Google Chrome.
+
+-R-Code can be extracted as Rmd file under the button "Code" in the notebook.
+
+-This Notebook using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
+
+
+
+
+<br>
+
+#Welcome to OpenRefine!
+
+**What is OpenRefine?**
+
+OpenRefine (formerly Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
+
+* Formerly known as "Google Refine"
+* Free & open-source
+* Tool for cleaning large datasets
+* Can create links between metadata sets
+* Desktop application - run locally (without worry about data privacy)
+* [http://openrefine.org/](http://openrefine.org/)
+
+
+**Big Idea of OpenRefine:**
+
+**What** -A messy, unstructured, inconsistent dataset can be explored using open refine. In general, it will be very difficult to explore data through redundancies and inconsistencies.But, OpenRefine gives several functions through which one can filter the data, edit the inconsistencies, and view the data. It's a tool to clean the data.
+
+**Why** -Spreadsheets can also refine a dataset but they are not the best tool for it as
+Openrefine cleans data in a more systematic controlled manner. While using historical data, we come across issues like
