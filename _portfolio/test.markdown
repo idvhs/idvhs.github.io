@@ -3,7 +3,7 @@ layout: post
 title: BI-Test
 description: Make Your Data an Impact
 img: /img/tableau/tableau.jpg
-date: 2017-01-01
+date: 2019-01-01
 ---
 
 # What is BI (Business Intelligence)?
