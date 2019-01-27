@@ -101,7 +101,6 @@ Tools:
 	<a href="https://il.linkedin.com/pub/jasmin-rubinovitz/a5/a91/9b1" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://www.facebook.com/jasmin.rubinovitz" target="_blank"><i class="fa fa-facebook-square"></i></a>
 </span> -->
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 <script type="text/javascript">
