@@ -13,17 +13,17 @@ date: 2019-01-07
  Präsentation am 7.1. gemäß Tabelle unten
  <Br>
  * Zeitreihe selbst wählen
- <Br>
+
  * Grafische Darstellung
- <Br>
+
  * Ein bis zwei Modelle zur Beschreibung der Zeitreihe anpassen 
- <Br>
+
  * Prognose für mindestens zwei weitere Zeitpunkte 
- <Br>
+ 
  * Grafik mit eingezeichnetem Modell 
- <Br>
+ 
  * Güte des Modells 
- <Br>
+
  * Untersuchung der Residuen z.B. Histogramm, QQ-Plot, Tests auf Normalverteilung 
  <Br>
  
