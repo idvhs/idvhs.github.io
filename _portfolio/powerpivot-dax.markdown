@@ -6,7 +6,7 @@ img: /img/pp/pp1.png
 date: 2017-03-01
 ---
 
-<img class="left" src="/img/pp/pp2.png" style="padding:25px">
+<img class="left" src="/img/pp/pp2.png" style="padding:15px">
 
 # What is Power Pivot and DAX?
 <Br>
