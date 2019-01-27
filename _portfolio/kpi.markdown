@@ -13,7 +13,9 @@ date: 2015-05-01
 <Br>
 Key Performance Indicators (KPIs) are the critical (key) indicators or measurement to check the success of a department or organization.
 Each business or department have different KPIs because they all have different tasks and goals.
+
 <Br>
+ 
 But There are five main types of KPIs:
 * Business KPIs
 * Financial KPIs
