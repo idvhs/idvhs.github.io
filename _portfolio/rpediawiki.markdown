@@ -2,7 +2,7 @@
 layout: post
 title: R Programming
 description: R is the lingua franca of Statistics
-img: /img/r/r-studio.png
+img: /img/r/rnew.png
 date: 2013-10-01
 ---
 
