@@ -2,7 +2,7 @@
 layout: post
 title: KPI-Dashboard
 description: Key Performance Indicators
-img: /img/kpi/kpi.png
+img: /img/kpi/kpinew.png
 date: 2015-05-01
 ---
 
