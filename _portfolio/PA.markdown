@@ -56,6 +56,10 @@ Data Science to optimize human resource management (HRM).
       <Br>
          <a href="https://www.tableau.com/">-Tableau</a>
         <Br>
+           <a href="https://powerbi.microsoft.com/en-us/">-Power BI</a>
+        <Br>
+          <a href="https://www.alteryx.com/">-Alteryx</a>
+           <Br>
           <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">-Artificial Intelligence</a>
           <Br>
             <a href="https://en.wikipedia.org/wiki/Machine_learning">-Applied AI=Machine learning</a>
