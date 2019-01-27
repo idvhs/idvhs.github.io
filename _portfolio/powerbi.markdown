@@ -15,6 +15,8 @@ date: 2017-01-01
 Tableau is the business intelligence platform that turns your data into insights that drive action. 
 <Br>
 I learn Power BI software during my work as working student at my university (HTW Berlin-University of Applied Sciences). I created BI solution and KPI-Dashboard from different sources for Finanzen & Personal department, start: December 2016.
+ 
+ 
 Read more at: <a href="https://powerbi.microsoft.com/en-us/"> powerbi.com</a>
 <Br>
  <Br>
