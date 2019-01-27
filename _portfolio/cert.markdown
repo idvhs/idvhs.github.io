@@ -14,4 +14,4 @@ My online courses journey start december 2015 (till now). Having completed some 
 <Br>
 There are a lot of free or some courses with a little money, MOOC (Massive Open Online Course). The online courses makes me more easily to learn at the university and in the exams. 
 
-This is the site for all of my certification: <a href="https://certification.gitbook.io/cevi/">Certification-Cevi</a>
+This is the site for all of my certification: <a href="https://certification.gitbook.io/cevi/">certification-cevi</a>
