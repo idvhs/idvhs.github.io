@@ -3,7 +3,7 @@ layout: post
 title: BI-Tableau
 description: Make Your Data an Impact
 img: /img/tableau/tableau.jpg
-date: 2017-01-01
+date: 2017-02-01
 ---
 
 # What is BI (Business Intelligence)?
