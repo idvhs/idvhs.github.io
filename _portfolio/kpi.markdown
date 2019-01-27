@@ -12,8 +12,7 @@ date: 2015-05-01
 # What is KPI (Key Performance Indicators)?
 <Br>
 Key Performance Indicators (KPIs) are the critical (key) indicators or measurement to check the success of a department or organization.
-<Br>
-Each business or department have different KPIs because they all have different tasks and goals. 
+Each business or department have different KPIs because they all have different tasks and goals.
 <Br>
 But There are five main types of KPIs:
 * Business KPIs
@@ -24,11 +23,9 @@ But There are five main types of KPIs:
 
 
 Based on my work experiences, there are a plenty data visualization software in the markets (even a MS-Excel too). 
-<Br>
-I works with two of them Tableau and Power BI.
-<Br>
-But I adapt to new concepts and software quickly.
 
+I works with two of them Tableau and Power BI. But I adapt to new concepts and software quickly.
+<Br>
 
 #KPI Dashboard with Tableau:
  <img class="col one right" src="/img/tableau/tableau.jpg" style="padding:25px">
