@@ -9,6 +9,7 @@ permalink: /about/
 <div>
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
+<br>
 Practiced Data Analyst with more than 3 years of experience as working student and intern in extraction,
 transformation, loaded, statistical interpreting and visualizing various types of dataset.
 Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
@@ -19,7 +20,6 @@ I am a postgraduate student in Financial Services & Risk Management at HTW Berli
 <br>
 <br>
 I'm interested in exploring the new ways or technology for better insight from data.
-<br>
 <br>
 	
 	 <li>
