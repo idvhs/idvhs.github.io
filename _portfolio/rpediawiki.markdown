@@ -18,10 +18,10 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
  
 |Analytics|Graphics & visualization|Document|Web apps|
 | ------------- |:-------------:| -----:| -----:|
-|* Descriptive   | right-aligned | $1600 | $1600 |
-|* Predictive     | centered      |   $12 |  $12  |
-|* Prescriptive Analytics | are neat      |    $1 | $1    |
-|* Applied AI=Machine learning| are neat      |    $1 | $1    |
+|Descriptive    |Static graphics |R Markdown |Interactive web apps (Shiny App) |
+|Predictive     |Dynamic or interactive graphics     |R Notebook |Blogdown  |
+|Prescriptive Analytics |Interactive web apps (Shiny App)      |Thesisdown |  |
+|Applied AI=Machine learning|      |Bookdown  |    |
  
 1. Analytics
 * Descriptive 
@@ -41,7 +41,7 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
 * Bookdown
 
 4. Web apps
-* Shiny App
+* Interactive web apps (Shiny App)
 * Blogdown
 <Br>
 
