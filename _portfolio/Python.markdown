@@ -2,7 +2,7 @@
 layout: post
 title: Python for Data Science
 description: Coding is awesome
-img: /img/pi/python.png
+img: /img/pi/pythonnew.jpg
 date: 2018-10-01
 ---
 
