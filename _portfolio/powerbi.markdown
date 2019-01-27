@@ -3,7 +3,7 @@ layout: post
 title: BI-Power BI
 description: Business intelligence like never before
 img: /img/powerbi/powerbi.png
-date: 2016-12-01
+date: 2017-01-01
 ---
 
 # What is BI (Business Intelligence)?
