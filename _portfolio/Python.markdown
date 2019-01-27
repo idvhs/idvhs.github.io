@@ -6,7 +6,7 @@ img: /img/pi/pythonnew.jpg
 date: 2018-10-01
 ---
 
-<img class="center" src="/img/pi/python2.png" style="padding:25px">
+<img class="center" src="/img/pi/pythonnew1.jpg" style="padding:25px">
 
 I learn Python during my intern in Deutsche Bahn Headquarters. Data Science team from Deutsche told me to learn not only R but also Python. R and Python are widely used and both have own strong ability. 
 
