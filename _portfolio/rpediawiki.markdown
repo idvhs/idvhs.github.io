@@ -13,6 +13,36 @@ I learn R programming from Oct. 2013 (till now). My Prof was <a href="https://ww
 <Br>
 She teached me how to using R Programming with R Studio IDE (Integrated Development Environment) in all statistics courses (Descriptive statistics, Probability, and Inferential statistics).
 <Br>
+ 
+ Beside statistical method, I used R programming for 4 main sections:
+ 
+1. Analytics
+
+* Descriptive 
+* Predictive
+* Prescriptive Analytics
+* Applied AI=Machine learning
+
+2. Graphics and visualization
+
+* Static graphics
+* Dynamic or interactive graphics
+* Interactive web apps (Shiny App)
+
+3. Document
+
+* R Markdown
+* R Notebook
+* Thesisdown
+* Bookdown
+
+4. Web apps
+
+* Shiny App
+* Blogdown
+
+
+
 <Br>
 
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
