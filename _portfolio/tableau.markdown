@@ -14,7 +14,7 @@ date: 2017-01-01
 <Br>
 Tableau is the business intelligence platform that turns your data into insights that drive action. 
 <Br>
-I learn Tableau software during my work as working student at my University (HTW Berlin-University of Applied Sciences), start: January 2017.
+I learn Tableau software during my work as working student at my university (HTW Berlin-University of Applied Sciences), start: January 2017.
 Read more at: <a href="https://www.tableau.com/products/what-is-tableau#pRPcizOoqK6RT1lv.99"> tableau.com</a>
 
 
