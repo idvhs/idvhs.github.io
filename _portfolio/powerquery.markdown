@@ -3,7 +3,7 @@ layout: post
 title: Power Query
 description: The Best Transformation and Data Manipulation Tool for Excel
 img: /img/pq/pq4.png
-date: 2017-03-01
+date: 2016-09-01
 ---
 
 <img class="center" src="/img/pq/pq2.PNG" style="padding:25px">
