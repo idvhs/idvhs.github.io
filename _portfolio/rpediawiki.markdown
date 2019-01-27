@@ -18,7 +18,7 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
  
 |1. Analytics|2. Graphics & visualization|3. Document/Communication|4. Web apps|
 | ------------- |:-------------:| -----:| -----:|
-|Descriptive    |Static graphics |R Markdown |Interactive web apps (Shiny App) |
+|Descriptive    |Static graphics |R Markdown       |Interactive web apps (Shiny App) |
 |Predictive     |Dynamic or interactive graphics     |R Notebook |Blogdown  |
 |Prescriptive Analytics |Interactive web apps (Shiny App)      |Thesisdown |  |
 |Applied AI=Machine learning|      |Bookdown  |    |
