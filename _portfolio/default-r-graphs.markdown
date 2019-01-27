@@ -12,7 +12,7 @@ date: 2018-12-18
 
 
 
-All languages have their inconsistencies include R Programming. This documentation helps us to create visualizing in default R graphics before to far away using the packages.
+> All languages have their inconsistencies include R Programming. This documentation helps us to create visualizing in default R graphics before to far away using the packages.
 
 
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
