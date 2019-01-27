@@ -17,4 +17,4 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
 
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
 <Br>
- This is my R Programming wiki site:<a href="https://r-pedia.gitbook.io/cevi/descriptive-analytics">r-pedia</a>
+ This is my R Programming wiki site:<a href="https://r-pedia.gitbook.io/cevi/descriptive-analytics">r-pedia-cevi</a>
