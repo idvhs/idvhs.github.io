@@ -36,7 +36,7 @@ I works with two of them Tableau and Power BI. But I adapt to new concepts and s
  #KPI Dashboard with Power BI:
  <img class="col one right" src="/img/powerbi/powerbi.png" style="padding:25px">
 <Br>
- This site is my Power BI visualization example:<a href="https://itsmecevi.github.io/dataviz-kpi/"> DataViz-KPI</a>
+ This site is my Power BI visualization example:<a href="https://itsmecevi.github.io/dataviz-kpi/"> DataViz-KPI-Cevi</a>
  <Br>
  *Please refresh the page or waiting a minute, because the server is running slow.
  
