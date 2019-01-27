@@ -16,6 +16,13 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
  
  Beside statistical method, I used R programming for 4 main sections:
  
+ | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ 
 1. Analytics
 * Descriptive 
 * Predictive
