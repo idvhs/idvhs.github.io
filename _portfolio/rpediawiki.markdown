@@ -16,33 +16,13 @@ She teached me how to using R Programming with R Studio IDE (Integrated Developm
  
  Beside statistical method, I used R programming for 4 main sections:
  
-|Analytics|Graphics & visualization|Document|Web apps|
+|1. Analytics|2. Graphics & visualization|3. Document/Communication|4. Web apps|
 | ------------- |:-------------:| -----:| -----:|
 |Descriptive    |Static graphics |R Markdown |Interactive web apps (Shiny App) |
 |Predictive     |Dynamic or interactive graphics     |R Notebook |Blogdown  |
 |Prescriptive Analytics |Interactive web apps (Shiny App)      |Thesisdown |  |
 |Applied AI=Machine learning|      |Bookdown  |    |
  
-1. Analytics
-* Descriptive 
-* Predictive
-* Prescriptive Analytics
-* Applied AI=Machine learning
-
-2. Graphics and visualization
-* Static graphics
-* Dynamic or interactive graphics
-* Interactive web apps (Shiny App)
-
-3. Document
-* R Markdown
-* R Notebook
-* Thesisdown
-* Bookdown
-
-4. Web apps
-* Interactive web apps (Shiny App)
-* Blogdown
 <Br>
 
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
