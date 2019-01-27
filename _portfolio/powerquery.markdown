@@ -16,8 +16,8 @@ Power Query is a data connection technology that enables you to discover, connec
 Power Query has programming language call M. The Power Query M formula language is optimized for building highly flexible data mashup queries. It's a functional, case sensitive language similar to F#.  More about power Query: <a href="https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference">Power Query M Reference</a> 
 <Br>
 <Br>
-I learn Power Query during my work as working student from September 2016 at HTW Berlin-University of Applied Sciences.
-My project is to automate my University reporting for Federal Statistical Office of Germany.
+I learn Power Query during my work as working student at my university (HTW Berlin-University of Applied Sciences), start: september 2016.
+My project is to automate my University reporting for <a href="https://www.destatis.de/EN/Homepage.html"> Federal Statistical Office of Germany (destatis) </a>.
 
 <img class="left" src="/img/pq/pq3.png" style="padding:25px">
 
