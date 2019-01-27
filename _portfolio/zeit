@@ -17,15 +17,4 @@ date: 2019-11-07
  * Grafische Darstellung
  <Br>
  * Ein bis zwei Modelle zur Beschreibung der Zeitreihe anpassen 
- <Br>
- * Prognose für mindestens zwei weitere Zeitpunkte 
- <Br>
- * Grafik mit eingezeichnetem Modell 
- <Br>
- * Güte des Modells 
- <Br>
- * Untersuchung der Residuen z.B. Histogramm, QQ-Plot, Tests auf Normalverteilung 
- <Br>
  
- Hier finden Sie die Präsentation: <a href="https://itsmecevi.github.io/usa-home-sales/"> die Präsentation </a>
- <img class="col one right" src="/img/ts/rmarkdown.png" style="padding:5px">
