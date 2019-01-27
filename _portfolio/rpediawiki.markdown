@@ -6,7 +6,7 @@ img: /img/r/r-studio.png
 date: 2013-10-01
 ---
 
-<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="400" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
 <Br>
 
 I learn R programming from Oct. 2013 (till now). My Prof was <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=9212">Prof. Dr Beate Bergter</a>.
