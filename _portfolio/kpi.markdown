@@ -27,7 +27,7 @@ I works with two of them Tableau and Power BI. But I adapt to new concepts and s
 <Br>
 
 #KPI Dashboard with Tableau:
- <img class="col one right" src="/img/tableau/tableau.jpg" style="padding:25px">
+ <img class="col one right" src="/img/tableau/tableau.jpg" style="padding:50px">
 <Br>
  This is my Tableau visualization site:<a href="https://public.tableau.com/profile/cevi.herdian#!/"> Tableau-Cevi</a>
  
