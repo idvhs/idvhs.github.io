@@ -6,8 +6,7 @@ img: /img/kpi/kpinew.png
 date: 2015-05-01
 ---
 
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">via GIPHY</a></p>
 
 # What is KPI (Key Performance Indicators)?
 <Br>
