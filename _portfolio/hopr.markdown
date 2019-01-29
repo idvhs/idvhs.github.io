@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hands-On Programming with R
-description: Summarizing series in R
+title: HOPR
+description: Hands-On Programming with R. Summarizing series in R
 img: /img/r/cover.PNG
 date: 2019-01-19
 ---
