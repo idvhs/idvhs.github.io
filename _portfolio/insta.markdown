@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Desta-DE
-description: Deskriptive Statistik mit R auf Deutsch
+title: Insta-DE
+description: Inferential Statistik mit R auf Deutsch
 img: /img/r/insta.jpg
 date: 2019-01-29
 ---
