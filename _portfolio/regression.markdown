@@ -3,7 +3,7 @@
 layout: post
 title: Regression 101 in R
 description: Complete Menu for Regression
-img: /img/r/datacleaning.png
+img: /img/r/regre.png
 date: 2019-01-29
 ---
 
