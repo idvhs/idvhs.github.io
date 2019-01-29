@@ -3,7 +3,7 @@ layout: post
 title: Insta-DE
 description: Inferential Statistik mit R auf Deutsch
 img: /img/r/insta.jpg
-date: 2019-01-29
+date: 2019-01-30
 ---
 
 
@@ -19,7 +19,7 @@ date: 2019-01-29
 
 <Br>
   
-<a href="https://itsmecevi.github.io/regression/">Click here: Desta-R</a>
+<a href="https://itsmecevi.github.io/regression/">Click here: Insta-R</a>
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
