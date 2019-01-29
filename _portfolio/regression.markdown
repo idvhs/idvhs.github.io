@@ -7,6 +7,8 @@ img: /img/r/regre.png
 date: 2019-01-29
 ---
 
+
+
 <iframe src="https://giphy.com/embed/1Vj1Jcaf7hrW0" width="480" height="373" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1Vj1Jcaf7hrW0">via GIPHY</a></p>
 
 <Br>
