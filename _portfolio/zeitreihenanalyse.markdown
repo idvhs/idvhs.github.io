@@ -12,8 +12,6 @@ date: 2019-01-07
  Vortrag über Zeitreihenanalyse 2 WS2018/209 an der Modul von <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=569"> Prof. Dr. Monika Kummer </a>
  <Br>
  Präsentation am 7.1. gemäß Tabelle unten
-  
- <Br>
  
  * Zeitreihe selbst wählen
  * Grafische Darstellung
@@ -22,8 +20,6 @@ date: 2019-01-07
  * Grafik mit eingezeichnetem Modell 
  * Güte des Modells 
  * Untersuchung der Residuen z.B. Histogramm, QQ-Plot, Tests auf Normalverteilung 
- 
- <Br>
  
  Hier finden Sie die Präsentation: <a href="https://itsmecevi.github.io/usa-home-sales/"> die Präsentation </a>
  <img class="col one right" src="/img/ts/rmarkdown.png" style="padding:5px">
