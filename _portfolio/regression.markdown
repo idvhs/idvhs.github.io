@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regression 101 in R
-description: Complete Menu for Regression
+description: Complete Menu for Regression Analysis
 img: /img/r/regre.png
 date: 2019-01-29
 ---
