@@ -15,6 +15,7 @@ date: 2019-01-29
 
 Regression techniques are one of the most popular statistical techniques used for predictive modeling and data mining tasks.
 There are more than 10 types of regression algorithms designed for various types of analysis. Each type has its own significance.
+Every analyst must know which form of regression to use depending on type of data and distribution.
 
 <Br>
   
