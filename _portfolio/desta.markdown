@@ -9,7 +9,7 @@ date: 2019-01-29
 
 
 <iframe src="https://giphy.com/embed/XCQ4DTzQfr7xe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geometry-math-cube-XCQ4DTzQfr7xe">via GIPHY</a></p>
-<Br>
+
 
 > Die beschreibende oder deskriptive Statistik kommt meist als erstes zum Einsatz wenn es um Datenanalyse geht.
 
