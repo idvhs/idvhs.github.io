@@ -22,7 +22,7 @@ This book are:
 
 <Br>
   
-<a href="https://itsmecevi.github.io/default-r-graphs/">Click here: Colorology in R</a>
+<a href="https://itsmecevi.github.io/hopr/">Click here: Hands-On Programming with R. Summarizing series in R</a>
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
