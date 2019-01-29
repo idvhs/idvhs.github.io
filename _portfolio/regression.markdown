@@ -19,7 +19,7 @@ Every analyst must know which form of regression to use depending on type of dat
 
 <Br>
   
-<a href="https://itsmecevi.github.io/data-cleaning-101/">Click here: Regression 101 in R</a>
+<a href="https://itsmecevi.github.io/regression/">Click here: Regression 101 in R</a>
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
