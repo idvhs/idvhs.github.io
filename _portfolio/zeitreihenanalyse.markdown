@@ -11,7 +11,7 @@ date: 2019-01-07
 <Br>
  Vortrag über Zeitreihenanalyse 2 WS2018/209 an der Modul von <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=569"> Prof. Dr. Monika Kummer </a>
  <Br>
- Präsentation am 7.1. gemäß Tabelle unten
+ Präsentation am 7.1. gemäß Tabelle unten:
  
  * Zeitreihe selbst wählen
  * Grafische Darstellung
