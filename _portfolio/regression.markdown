@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Regression 101 in R
