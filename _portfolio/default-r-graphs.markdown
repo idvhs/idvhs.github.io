@@ -19,7 +19,7 @@ All languages have their inconsistencies include R Programming. This documentati
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
 <Br>
 > This Notebook using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
-> Find the file and others stuff in my github account with same tittle
+> Find the file and others stuff in my github account.
 <li>
 <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
 </li>
