@@ -29,7 +29,7 @@ This book are:
 
 <Br>
 > This Notebook using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
-> Find the file and others stuff in my github account with same tittle
+> Find the file and others stuff in my github account.
 
 
 <li>
