@@ -6,7 +6,7 @@ img: /img/r/cover.PNG
 date: 2019-01-19
 ---
 
-<img class="col one right" src="/img/r/cover.PNG" style="padding:25px">
+<img class="col one left" src="/img/r/cover.PNG" style="padding:25px">
 <Br>
 
 This book are:
