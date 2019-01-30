@@ -3,7 +3,7 @@ layout: post
 title: Insta-DE
 description: Inferential Statistik mit R auf Deutsch
 img: /img/r/insta.jpg
-date: 2013-10-30
+date: 2014-10-30
 ---
 
 
