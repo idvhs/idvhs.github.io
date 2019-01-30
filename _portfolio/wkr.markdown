@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wahrscheinlichkeitsrechnung-DE
+title: WKR-DE
 description: Berechnung einer Wahrscheinlichkeit
 img: /img/r/proba.png
 date: 2014-04-30
