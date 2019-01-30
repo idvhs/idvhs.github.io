@@ -17,7 +17,7 @@ Using EDA to discover patterns, to spot anomalies, to test hypothesis and to che
 
 
 <Br>
-<a href="https://itsmecevi.github.io/wkr/">Click here: EDA with R</a>
+<a href="https://itsmecevi.github.io/eda/">Click here: EDA with R</a>
 <Br>
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
 <Br>
