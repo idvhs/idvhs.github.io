@@ -3,7 +3,7 @@ layout: post
 title: Desta-DE
 description: Deskriptive Statistik mit R auf Deutsch
 img: /img/r/desta.jpg
-date: 2019-01-29
+date: 2013-10-30
 ---
 
 
