@@ -14,8 +14,10 @@ Practiced Data Analyst with more than 3 years of experience as working student a
 transformation, loaded, statistical interpreting and visualizing various types of dataset.
 Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
 <br>
+	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 I have a skill and experience for most of the data-science steps: data pre-processing (data cleaning), application of statistical methods, data visualization and results communication
+
 <br>
 I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, Prescriptive Analytics, and Applied AI=Machine learning).
 <br>
