@@ -16,6 +16,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.
 <br>
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
+<br>
 I have a skill and experience for most of the data-science steps: data pre-processing (data cleaning), application of statistical methods, data visualization and results communication
 
 <br>
