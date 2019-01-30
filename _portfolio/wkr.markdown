@@ -13,7 +13,7 @@ date: 2014-04-30
 
 
 <Br>
-<a href="https://itsmecevi.github.io/default-r-graphs/">Click here: Wahrscheinlichkeitsrechnung-DE</a>
+<a href="https://itsmecevi.github.io/wkr/">Click here: Wahrscheinlichkeitsrechnung-DE</a>
 <Br>
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
 <Br>
