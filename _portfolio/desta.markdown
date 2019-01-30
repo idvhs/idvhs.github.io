@@ -15,7 +15,7 @@ date: 2013-10-30
 
 <Br>
   
-<a href="https://itsmecevi.github.io/regression/">Click here: Desta-R</a>
+<a href="https://itsmecevi.github.io/desta/">Click here: Desta-R</a>
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
