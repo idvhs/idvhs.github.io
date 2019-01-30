@@ -6,10 +6,9 @@ img: /img/r/pencil.jpg
 date: 2014-04-30
 ---
 
-<iframe src="https://giphy.com/embed/l4FGzAPvg5PbZrVlK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/drawing-writing-stopmotion-l4FGzAPvg5PbZrVlK">via GIPHY</a></p>
-<Br>
+<iframe src="https://giphy.com/embed/p3KieTPa7p3wtEBQMD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hands-poker-probability-p3KieTPa7p3wtEBQMD">via GIPHY</a></p>
 
-> Grad der Gewissheit (Sicherheit)
+> Grad der Gewissheit (Sicherheit).
 
 
 
