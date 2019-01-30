@@ -2,7 +2,7 @@
 layout: post
 title: Wahrscheinlichkeitsrechnung-DE
 description: Berechnung einer Wahrscheinlichkeit
-img: /img/r/pencil.jpg
+img: /img/r/proba.png
 date: 2014-04-30
 ---
 
