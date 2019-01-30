@@ -19,7 +19,7 @@ date: 2014-10-30
 
 <Br>
   
-<a href="https://itsmecevi.github.io/regression/">Click here: Insta-R</a>
+<a href="https://itsmecevi.github.io/insta/">Click here: Insta-R</a>
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
