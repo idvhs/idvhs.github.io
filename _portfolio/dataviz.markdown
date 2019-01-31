@@ -15,11 +15,11 @@ date: 2019-01-31
 
 > A picture is worth a thousand words
 
-The complete reference for creating a graphs in R Programming. Copyright © https://www.yan-holtz.com/
-
+The complete reference for creating a graphs in R Programming. 
 <Br>
   
-<a href="https://itsmecevi.github.io/dataviz/">Click here: DataViz in R</a>
+<a href="https://itsmecevi.github.io/dataviz/">Click here: DataViz in R</a>. Copyright © https://www.yan-holtz.com/
+
 <Br>
   
 <img class="col one right" src="/img/r/r-studio.png" style="padding:25px">
