@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine learning 101
-description: My blog about use case machine learning and analytics
+description: My blog about use case machine learning
 img: /img/r/ml.jpeg
 date: 2019-02-01
 ---
@@ -17,7 +17,7 @@ date: 2019-02-01
 
 <Br>
   
-<a href="https://itsmecevi.github.io/dataviz/">Click here: DataViz in R</a>. Copyright © https://www.yan-holtz.com/
+<a href="https://itsmecevi.github.io/dataviz/">Click here: Machine Learning 101</a>. 
 
 <Br>
   
