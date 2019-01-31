@@ -18,7 +18,6 @@ date: 2019-02-01
 <Br>
   
 <a href="https://itsmecevi.github.io/ml-1/">1. Why Machine Learning</a>
-
 <a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">3. Test</a>
