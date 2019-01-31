@@ -17,6 +17,8 @@ date: 2019-02-01
 
 <Br>
   
+**Theory:**
+  
 <a href="https://itsmecevi.github.io/ml-1/">1. Why Machine Learning</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
@@ -24,6 +26,12 @@ date: 2019-02-01
 <a href="https://itsmecevi.github.io/dataviz/">3. Test</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">4. Test</a>
+
+**Use case:**
+<a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
+
 
 <Br>
   
