@@ -15,7 +15,7 @@ date: 2019-01-31
 
 > A picture is worth a thousand words
 
-The complete reference for creating a graphs in R Programming. 
+The complete reference for creating a graphs in R Programming. Copyright © https://www.yan-holtz.com/
 
 <Br>
   
