@@ -17,7 +17,13 @@ date: 2019-02-01
 
 <Br>
   
-<a href="https://itsmecevi.github.io/dataviz/">Click here: Machine Learning 101</a>. 
+<a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">3. Test</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">4. Test</a>
 
 <Br>
   
