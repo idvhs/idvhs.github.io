@@ -3,7 +3,7 @@ layout: post
 title: Machine learning 101
 description: My blog about use case machine learning and analytics
 img: /img/r/ml.jpeg
-date: 2019-32-01
+date: 2019-01-02
 ---
 
 
