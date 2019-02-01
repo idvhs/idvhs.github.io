@@ -29,10 +29,17 @@ date: 2019-02-01
 
 **Use case:**
 
+* Classification->
+
 <a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
 
+* Clustering->
+
+<a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
 
 <Br>
   
