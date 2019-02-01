@@ -31,9 +31,25 @@ date: 2019-02-01
 
 * Classification->
 
+<a href="https://itsmecevi.github.io/dataviz/">1. Logistic Regression</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">2. Naïve Bayes</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">3. Stochastic Gradient Descent</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">4. K-Nearest Neighbours</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">5. Decision Tree</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">6. Random Forest</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">7. Support Vector Machine</a>
+
 <a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
+
+
 
 * Clustering->
 
