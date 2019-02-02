@@ -33,17 +33,17 @@ date: 2019-02-01
 
 <a href="https://itsmecevi.github.io/logistik-regression/">1. Logistic Regression</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">2. Naïve Bayes</a>
+<a href="https://itsmecevi.github.io/dataviz/">2. Naïve Bayes-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">3. Stochastic Gradient Descent</a>
+<a href="https://itsmecevi.github.io/dataviz/">3. Stochastic Gradient Descent-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">4. K-Nearest Neighbours</a>
+<a href="https://itsmecevi.github.io/dataviz/">4. K-Nearest Neighbours-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">5. Decision Tree</a>
+<a href="https://itsmecevi.github.io/dataviz/">5. Decision Tree-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">6. Random Forest</a>
+<a href="https://itsmecevi.github.io/dataviz/">6. Random Forest-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">7. Support Vector Machine</a>
+<a href="https://itsmecevi.github.io/dataviz/">7. Support Vector Machine-soon</a>
 
 
 
@@ -51,15 +51,15 @@ date: 2019-02-01
 
 * Clustering->
 
-<a href="https://itsmecevi.github.io/dataviz/">1. K-Means Clustering</a>
+<a href="https://itsmecevi.github.io/dataviz/">1. K-Means Clustering-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">2. Mean-Shift Clustering</a>
+<a href="https://itsmecevi.github.io/dataviz/">2. Mean-Shift Clustering-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">3. Density-Based Spatial Clustering of Applications with Noise (DBSCAN)</a>
+<a href="https://itsmecevi.github.io/dataviz/">3. Density-Based Spatial Clustering of Applications with Noise (DBSCAN)-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">4. Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)</a>
+<a href="https://itsmecevi.github.io/dataviz/">4. Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)-soon</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">5. Agglomerative Hierarchical Clustering</a>
+<a href="https://itsmecevi.github.io/dataviz/">5. Agglomerative Hierarchical Clustering-soon</a>
 
 
 
