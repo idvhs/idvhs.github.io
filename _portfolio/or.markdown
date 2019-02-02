@@ -73,11 +73,13 @@ date: 2019-02-02
 * Globalization: globalizing operations processes in order to take advantage of cheaper materials, labor, land or other productivity inputs
 * Transportation: managing freight transportation and delivery systems (Examples: LTL shipping, intermodal freight transport, travelling salesman problem)
 * Scheduling:
+
       * Personnel staffing
       * Manufacturing steps
       * Project tasks
       * Network data traffic: these are known as queueing models or queueing systems.
       * Sports events and their television coverage
+      
 * Blending of raw materials in oil refineries
 * Determining optimal prices, in many retail and B2B settings, within the disciplines of pricing science
 * Cutting stock problem: Cutting small items out of bigger ones.
