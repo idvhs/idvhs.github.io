@@ -23,9 +23,7 @@ date: 2019-02-01
 
 <a href="https://itsmecevi.github.io/ml-2/">2. Machine Learning Types and Algorithms</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">3. Test</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">4. Test</a>
 
 **Use case:**
 
@@ -45,17 +43,13 @@ date: 2019-02-01
 
 <a href="https://itsmecevi.github.io/dataviz/">7. Support Vector Machine</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
 
 
 
 * Clustering->
 
-<a href="https://itsmecevi.github.io/dataviz/">1. Test</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">2. Test</a>
 
 <Br>
   
