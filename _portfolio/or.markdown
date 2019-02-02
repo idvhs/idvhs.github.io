@@ -19,6 +19,7 @@ date: 2019-02-02
 **Theory:**
 
 <a href="https://itsmecevi.github.io/logistik-regression/">1. Linear Programming-soon</a>
+
 <a href="https://itsmecevi.github.io/dataviz/">2. Transportation Problem-soon</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">3. Assignment Problem-soon</a>
