@@ -21,7 +21,7 @@ date: 2019-02-01
   
 <a href="https://itsmecevi.github.io/ml-1/">1. Why Machine Learning</a>
 
-<a href="https://itsmecevi.github.io/dataviz/">2. Machine Learning Types and Algorithms</a>
+<a href="https://itsmecevi.github.io/ml-2/">2. Machine Learning Types and Algorithms</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">3. Test</a>
 
