@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine learning 101
-description: My blog about use case machine learning
+description: My note about use case machine learning
 img: /img/r/ml.jpeg
 date: 2019-02-01
 ---
