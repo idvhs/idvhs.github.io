@@ -27,6 +27,8 @@ date: 2019-02-01
 
 **Use case:**
 
+* Regression-> https://itsmecevi.github.io/regression/
+
 * Classification->
 
 <a href="https://itsmecevi.github.io/logistik-regression/">1. Logistic Regression</a>
@@ -48,6 +50,17 @@ date: 2019-02-01
 
 
 * Clustering->
+
+<a href="https://itsmecevi.github.io/dataviz/">1. K-Means Clustering</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">2. Mean-Shift Clustering</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">3. Density-Based Spatial Clustering of Applications with Noise (DBSCAN)</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">4. Expectation–Maximization (EM) Clustering using Gaussian Mixture Models (GMM)</a>
+
+<a href="https://itsmecevi.github.io/dataviz/">5. Agglomerative Hierarchical Clustering</a>
+
 
 
 
