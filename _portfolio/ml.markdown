@@ -29,7 +29,7 @@ date: 2019-02-01
 
 * Classification->
 
-<a href="https://itsmecevi.github.io/dataviz/">1. Logistic Regression</a>
+<a href="https://itsmecevi.github.io/logistik-regression/">1. Logistic Regression</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">2. Naïve Bayes</a>
 
