@@ -19,7 +19,6 @@ date: 2019-02-02
 **Theory:**
 
 <a href="https://itsmecevi.github.io/logistik-regression/">1. Linear Programming-soon</a>
-
 <a href="https://itsmecevi.github.io/dataviz/">2. Transportation Problem-soon</a>
 
 <a href="https://itsmecevi.github.io/dataviz/">3. Assignment Problem-soon</a>
@@ -63,6 +62,24 @@ date: 2019-02-02
     * Generalized assignment problem
     * Quadratic assignment problem
     * Weapon target assignment problem
+* Bayesian search theory: looking for a target
+* Optimal search
+* Routing, such as determining the routes of buses so that as few buses are needed as possible
+* Supply chain management: managing the flow of raw materials and products based on uncertain demand for the finished products
+* Project production activities: managing the flow of work activities in a capital project in response to system variability through operations research tools for variability reduction and buffer allocation using a combination of allocation of capacity, inventory and time[27][28]
+* Efficient messaging and customer response tactics
+* Automation: automating or integrating robotic systems in human-driven operations processes
+* Globalization: globalizing operations processes in order to take advantage of cheaper materials, labor, land or other productivity inputs
+* Transportation: managing freight transportation and delivery systems (Examples: LTL shipping, intermodal freight transport, travelling salesman problem)
+* Scheduling:
+      * Personnel staffing
+      * Manufacturing steps
+      * Project tasks
+      * Network data traffic: these are known as queueing models or queueing systems.
+      * Sports events and their television coverage
+* Blending of raw materials in oil refineries
+* Determining optimal prices, in many retail and B2B settings, within the disciplines of pricing science
+* Cutting stock problem: Cutting small items out of bigger ones.
 
 <Br>
   
