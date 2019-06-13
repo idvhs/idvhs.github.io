@@ -44,12 +44,12 @@ I'm interested in exploring the new ways or technology for better insight from d
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
           </li>
-          <li>
+         <!-- <li>
             <a id="icon" href="https://www.linkedin.com/in/cevi-herdian-ba83a9a2/" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
-          </li>
-           <li>
+          </li> -->
+           <!-- <li>
             <a id="icon" href="https://www.xing.com/profile/Cevi_Herdian/cv" target="_blank"><i class="fa fa-xing fa-fw fa-2x"></i></a>
-          </li>
+          </li> -->
 <!--
 <br>
 <br>
