@@ -10,7 +10,7 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
-Practiced Data Analyst with more than 3 years of experience as working student and intern in extraction,
+Practiced Data Analyst with more than 3 years of experience in extraction,
 transformation, loaded, statistical interpreting and visualizing various types of dataset.
 Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
 <br>
@@ -36,10 +36,10 @@ I'm interested in exploring the new ways or technology for better insight from d
 	    CV-DE</a>
           </li>
 	  
-	  <!-- <li>
-            <a id="icon" href="https://itsmecevi.github.io/lebenslauf/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
+	  <li>
+            <a id="icon" href="https://itsmecevi.github.io/biodata-cv/" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>
 	    CV-IND</a>
-          </li> -->
+          </li>
 	
 	 <li>
             <a id="icon" href="https://github.com/itsmecevi" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
