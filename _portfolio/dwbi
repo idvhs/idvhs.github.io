@@ -2,7 +2,7 @@
 layout: post
 title: DWBI
 description: Hands-On Programming with R. Summarizing series in R
-img: /img/tableau1.png
+img: /img/dwbi.jpg
 date: 2019-10-10
 ---
 
@@ -25,7 +25,7 @@ The lectures and summary of Data Warehouse & Business Intelligence:
 <a href="https://itsmecevi.github.io/dwbi">Click here: Data Warehouse & Business Intelligence</a>
 <Br>
   
-<img class="col one right" src="/img/tableau.png" style="padding:25px">
+<img class="col one right" src="/img/tableau1.png" style="padding:25px">
 
 <Br>
 > This Notebook using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
