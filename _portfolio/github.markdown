@@ -2,7 +2,7 @@
 layout: post
 title: Github
 description: Github Version Control
-img: /img/tableau1.png
+img: /img/github.jpg
 date: 2017-04-01
 ---
 
@@ -12,16 +12,21 @@ date: 2017-04-01
 <Br>
 
 
-> **The Data Lab with Tableau software (Public Edition-Free)**:
+> **GitHub is a code hosting platform for collaboration and version control.**
+> **GitHub lets you (and others) work together on projects.**
+
+>**GitHub essentials are:**
 
 
-* Overview
+* Repositories
 
-* Introduction Tableau
+* Branches
 
-* Install Tableau Public (free)
+* Commits
 
-* How to tutorial
+* Pull Requests
+
+* Git (the version control software GitHub is built on)
 
 
 <Br>
@@ -29,7 +34,7 @@ date: 2017-04-01
 <a href="https://itsmecevi.github.io/tableaupublic/">Click here: Tableau Public</a>
 <Br>
   
-<img class="col one right" src="/img/tableau1.png" style="padding:25px">
+<img class="col one right" src="/img/github.jpg" style="padding:25px">
 
 <Br>
 
