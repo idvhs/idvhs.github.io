@@ -32,7 +32,7 @@ date: 2017-04-01
 
 <Br>
   
-<a href="https://itsmecevi.github.io/tableaupublic/">Click here: Tableau Public</a>
+<a href="https://github.com/itsmecevi">Click here: My Github</a>
 <Br>
   
 <img class="col one right" src="/img/github.jpg" style="padding:25px">
