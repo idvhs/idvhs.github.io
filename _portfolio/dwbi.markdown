@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DWBI
-description: Summary Data Warehouse & Business Intelligence
+description: Data Warehouse & Business Intelligence
 img: /img/dwbi.jpg
 date: 2019-09-25
 ---
@@ -9,7 +9,7 @@ date: 2019-09-25
 <iframe src="https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6">via GIPHY</a></p>
 <Br>
 
-> **The lectures and summary of Data Warehouse & Business Intelligence**:
+> **The lectures and summary of Data Warehouse & Business Intelligence with Tableau software**:
 
 
 * Overview
