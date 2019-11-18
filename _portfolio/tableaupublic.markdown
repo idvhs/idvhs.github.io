@@ -13,7 +13,7 @@ date: 2019-10-07
 <Br>
 
 
-> **The Data Lab with Tableau software (Public Edition-Free) **:
+> **The Data Lab with Tableau software (Public Edition-Free)**:
 
 
 * Overview
