@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hands-On Tableau
+title: Hands-On Tableau Workshop
 description: Self-Service Business Intelligence
-img: /img/tableau1.png
+img: /img/workshop.png
 date: 2020-01-01
 ---
 
