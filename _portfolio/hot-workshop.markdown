@@ -29,10 +29,10 @@ date: 2020-01-01
 <a href="https://itsmecevi.github.io/tableaupublic/">Overview: Hands On Tableau Products</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Prep. Workshop</a>
+<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Prep.</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Public / Desktop / Online / Server. Workshop</a>
+<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Public / Desktop / Online / Server</a>
 <Br>
   
 <img class="col one right" src="/img/tableau1.png" style="padding:25px">
