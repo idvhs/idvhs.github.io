@@ -32,16 +32,16 @@ date: 2020-01-01
 <a href="https://itsmecevi.github.io/tableaupublic/">Tableau for Finance & Accounting</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">Visual References</a>
+<a href="https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf">Visual References</a>
 <Br>
   
-<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Prep.</a>
+<a href="https://docs.google.com/document/d/1BenoFERvNOoVNxIUSgvgrODJYvEy2rV8yZD0sp06qRQ/edit?usp=sharing">Workshop: Tableau Prep.</a>
 <Br>
 
 <a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Public / Desktop / Online / Server</a>
 <Br>
   
-<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau for Finance & Accounting</a>
+<a href="https://public.tableau.com/profile/tableau.for.finance#!/">Example: Tableau for Finance & Accounting</a>
 <Br>
   
 <img class="col one right" src="/img/tableau1.png" style="padding:25px">
