@@ -12,7 +12,7 @@ date: 2020-01-01
 <Br>
 
 
-> **Business Intelligence Overview**:
+> **Hands-On Tableau Products Workshop**:
 
 
 * Business Intelligence Scope
@@ -26,15 +26,13 @@ date: 2020-01-01
 
 <Br>
   
-<a href="https://itsmecevi.github.io/tableaupublic/">BI Overview: Hands On Tableau Products</a>
+<a href="https://itsmecevi.github.io/tableaupublic/">Overview: Hands On Tableau Products</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">BI Overview: Tableau Prep. Workshop</a>
-
+<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Prep. Workshop</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">BI Overview: Tableau Public / Desktop / Online / Server. Workshop</a>
-
+<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Public / Desktop / Online / Server. Workshop</a>
 <Br>
   
 <img class="col one right" src="/img/tableau1.png" style="padding:25px">
