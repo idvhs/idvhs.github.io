@@ -29,7 +29,7 @@ date: 2020-01-01
 <a href="https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing">Overview: Hands On Tableau Products</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">Tableau for Finance & Accounting</a>
+<a href="https://github.com/itsmecevi/Tableau-for-Finance-Accounting/blob/master/Tableau%20for%20Finance%20%26%20Accounting.zip">Tableau for Finance & Accounting</a>
 <Br>
 
 <a href="https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf">Visual References</a>
@@ -38,7 +38,7 @@ date: 2020-01-01
 <a href="https://docs.google.com/document/d/1BenoFERvNOoVNxIUSgvgrODJYvEy2rV8yZD0sp06qRQ/edit?usp=sharing">Workshop: Tableau Prep.</a>
 <Br>
 
-<a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Public / Desktop / Online / Server</a>
+<a href="https://mega.nz/#!4opAzCTJ!tcpu8r92dHv1rvmtukDHriJ8GvaWbywZGeDGkenJM0k">Workshop: Tableau Public / Desktop / Online / Server</a>
 <Br>
   
 <a href="https://public.tableau.com/profile/tableau.for.finance#!/">Example: Tableau for Finance & Accounting</a>
