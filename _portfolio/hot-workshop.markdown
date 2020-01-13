@@ -29,6 +29,12 @@ date: 2020-01-01
 <a href="https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing">Overview: Hands On Tableau Products</a>
 <Br>
 
+<a href="https://itsmecevi.github.io/tableaupublic/">Tableau for Finance & Accounting</a>
+<Br>
+
+<a href="https://itsmecevi.github.io/tableaupublic/">Visual References</a>
+<Br>
+  
 <a href="https://itsmecevi.github.io/tableaupublic/">Workshop: Tableau Prep.</a>
 <Br>
 
