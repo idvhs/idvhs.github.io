@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-On Tableau Workshop
+title: Tableau Desktop Specialist
 description: Self-Service Business Intelligence
 img: /img/tds.png
 date: 2020-27-01
