@@ -3,7 +3,7 @@ layout: post
 title: Tableau Desktop Specialist
 description: Self-Service Business Intelligence
 img: /img/tds.png
-date: 2020-27-01
+date: 2020-01-27
 ---
 
 
