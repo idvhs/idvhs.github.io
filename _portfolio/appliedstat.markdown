@@ -11,7 +11,7 @@ date: 2020-02-14
 <Br>
 
 
-> **An Introduction to Applied Statistics**: <a href="https://itsmecevi.github.io/Intro-WebDev/">Click here for Curriculum</a>
+> **An Introduction to Applied Statistics**: <a href="https://itsmecevi.github.io/Applied-Statistics/">Click here for Curriculum</a>
 
 
 
