@@ -11,7 +11,7 @@ date: 2020-02-19
 <Br>
 
 
-> **Code Free Data Science: Knime Analytics**: <a href="https://itsmecevi.github.io/Intro-WebDev/">Click here for Curriculum</a>
+> **Code Free Data Science: Knime Analytics**: <a href="https://itsmecevi.github.io/Knime-Analytics/">Click here for Curriculum</a>
 
 
 
