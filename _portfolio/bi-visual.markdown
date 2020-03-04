@@ -18,7 +18,7 @@ date: 2020-03-04
 
 <Br>
   
-<img class="col one right" src="/img/knime1.jpg" style="padding:25px">
+<img class="col one right" src="/img/tableau1.png" style="padding:25px">
 
 <Br>
 
