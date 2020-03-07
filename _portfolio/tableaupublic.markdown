@@ -16,22 +16,24 @@ date: 2019-10-07
 > **The Data Lab with Tableau software (Public Edition-Free)**:
 
 
-* Business Intelligence 101 (SSBI)
+* Business Intelligence 101-Tableau (SSBI)
 
-* Tableau 101
+* The Power of Data Visualization
 
-* Connecting to data
+* Tableau 101 Demo
+
+* Connecting to Data
 
 * Data Preparation
 
-* The logic of charts in Tableau
+* The Logic of Charts in Tableau
 
-* Upload charts on the facebook of data visualization [tableau public](https://public.tableau.com/en-us/s/)
+* Upload Charts on the Facebook of Data Visualization [tableau public](https://public.tableau.com/en-us/s/)
 
 
 <Br>
   
-> Hands-On Tableau Public: <a href="https://itsmecevi.github.io/tableaupublic/">Click here for curriculum</a>
+> Hands-On Tableau Public: <a href="https://itsmecevi.github.io/Tableau-Public/">Click here for curriculum</a>
 <Br>
   
 <img class="col one right" src="/img/tableau1.png" style="padding:25px">
