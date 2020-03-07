@@ -16,13 +16,17 @@ date: 2019-10-07
 > **The Data Lab with Tableau software (Public Edition-Free)**:
 
 
-* Overview
+* Business Intelligence 101 (SSBI)
 
-* Introduction Tableau
+* Tableau 101
 
-* Install Tableau Public (free)
+* Connecting to data
 
-* How to tutorial
+* Data Preparation
+
+* The logic of charts in Tableau
+
+* Upload charts on the facebook of data visualization [tableau public](https://public.tableau.com/en-us/s/)
 
 
 <Br>
