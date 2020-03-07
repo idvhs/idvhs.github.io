@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tableau Public
-description: Data Warehouse & Business Intelligence
+description: Self Service Business Intelligence (SSBI)
 img: /img/tableau1.png
 date: 2019-10-07
 ---
