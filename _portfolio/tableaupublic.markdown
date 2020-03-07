@@ -31,7 +31,7 @@ date: 2019-10-07
 
 <Br>
   
-<a href="https://itsmecevi.github.io/tableaupublic/">Click here for curriculum</a>
+> Tableau Public: <a href="https://itsmecevi.github.io/tableaupublic/">Click here for curriculum</a>
 <Br>
   
 <img class="col one right" src="/img/tableau1.png" style="padding:25px">
