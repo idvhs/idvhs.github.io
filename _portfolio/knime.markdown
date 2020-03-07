@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Knime Analytics
+title: Discover Knime Analytics
 description: Code Free Data Science
 img: /img/knime0.jpg
 date: 2020-02-19
