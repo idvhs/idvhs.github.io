@@ -20,15 +20,15 @@ date: 2019-10-07
 
 * The Power of Data Visualization
 
-* Tableau 101 Demo
+* Tableau Public 101 Demo
 
 * Connecting to Data
 
 * Data Preparation
 
-* The Logic of Charts in Tableau
+* Understanding Tableau Concepts for Visualization
 
-* Upload Charts on the Facebook of Data Visualization [tableau public](https://public.tableau.com/en-us/s/)
+* The Facebook of Data Visualization [Upload Here](https://public.tableau.com/en-us/s/)
 
 
 <Br>
