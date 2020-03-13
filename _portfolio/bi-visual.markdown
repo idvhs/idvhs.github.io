@@ -12,7 +12,7 @@ date: 2020-03-04
 <Br>
 
 
-> **Business Intelligence & Visual Analytics-Tableau**: <a href="https://itsmecevi.github.io/BI-Visual-Analytics/">Click here for Curriculum</a>
+> **Business Intelligence & Visual Analytics-Tableau**: <a href="https://itsmecevi.github.io/BI-Visual-Analytics/">Click Here For Curriculum</a>
 
 
 
