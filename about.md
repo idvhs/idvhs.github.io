@@ -10,7 +10,7 @@ permalink: /about/
 Hello, my name is Cevi Herdian. I'm <span class="changing"></span> Enthusiast
 <br>
 <br>
-Practiced Data-Driven Strategist with more than 4 years of experience in extraction,
+Practiced Data-Driven Strategist with more than 5 years of experience in extraction,
 transformation, loaded, statistical interpreting and visualizing various types of dataset.
 Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics. 
 <br>
