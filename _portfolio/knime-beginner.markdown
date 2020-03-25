@@ -2,7 +2,7 @@
 layout: post
 title: Knime Beginner Training
 description: Knime Analytics
-img: /img/knime.jpg
+img: /img/knime0.jpg
 date: 2020-03-25
 ---
 
@@ -18,7 +18,7 @@ date: 2020-03-25
 
 <Br>
   
-<img class="col one right" src="/img/knime.png" style="padding:25px">
+<img class="col one right" src="/img/knime1.jpg" style="padding:25px">
 
 <Br>
 
