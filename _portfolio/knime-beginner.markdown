@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Knime Beginner Training
-description: End to End Data Science
+description: Code Free Data Science-End to End Data Science
 img: /img/knime0.jpg
 date: 2020-03-25
 ---
