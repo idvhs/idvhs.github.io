@@ -11,7 +11,7 @@ date: 2020-03-27
 <Br>
 
 
-> **Knime Analytics Advanced Training**: <a href="https://itsmecevi.github.io/Knime-Beginner-Training/">Click Here For Curriculum</a>
+> **Knime Analytics Advanced Training**: <a href="https://itsmecevi.github.io/Knime-Advanced-Training/">Click Here For Curriculum</a>
 
 
 
