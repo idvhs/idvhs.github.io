@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Knime Beginner Training
-description: Knime Analytics
+description: End to End Data Science
 img: /img/knime0.jpg
 date: 2020-03-25
 ---
