@@ -3,7 +3,7 @@ layout: post
 title: Knime Data Science & ML
 description: Code Free Data Science-End to End Data Science
 img: /img/knime0.jpg
-date: 2020-03-29
+date: 2020-03-30
 ---
 
 
