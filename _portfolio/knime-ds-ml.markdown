@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Discover Knime Analytics
-description: Code Free Data Science
+title: Knime Data Science & ML
+description: Code Free Data Science-End to End Data Science
 img: /img/knime0.jpg
-date: 2020-02-19
+date: 2020-03-29
 ---
 
 
@@ -11,7 +11,7 @@ date: 2020-02-19
 <Br>
 
 
-> **Code Free Data Science: Knime Analytics**: <a href="https://itsmecevi.github.io/Knime-Analytics/">Click here for Curriculum</a>
+> **Knime Data Science & Machine Learning**: <a href="">Click Here For Curriculum</a>
 
 
 
