@@ -2,7 +2,7 @@
 layout: post
 title: BI & Visual Analytics-Tableau Overview
 description: 1 Days Workshops
-img: /img/workshop2.png
+img: /img/analisis.png
 date: 2020-06-05
 ---
 
@@ -11,7 +11,7 @@ date: 2020-06-05
 <Br>
 
 
-> **Business Intelligence & Visual Analytics-Tableau**: <a href="">Click Here For Curriculum</a>
+> **Business Intelligence & Visual Analytics-Tableau**: <a href="https://itsmecevi.github.io/bi-visual-overview/">Click Here For Curriculum</a>
 
 
 
