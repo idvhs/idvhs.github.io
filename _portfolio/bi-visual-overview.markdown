@@ -1,12 +1,10 @@
 ---
 layout: post
-title: BI & Visual Analytics
-description: 1 Days Workshops: 2 Sessions
-img: /img/analisis.png
+title: BI & Visual Analytics-Tableau
+description: 1 Days Workshops: 
+img: /img/workshop.jpg
 date: 2020-06-06
-----
-
-
+---
 
 
 <iframe src="https://giphy.com/embed/jpQjQVmdzTnOrpbTSj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/data-economa-jpQjQVmdzTnOrpbTSj">via GIPHY</a></p>
