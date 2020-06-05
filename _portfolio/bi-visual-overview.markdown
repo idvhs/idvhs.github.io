@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BI & Visual Analytics-Tableau Overview
-description: 1 Days Workshops
+description: 1 Days Workshops: 2 sessions
 img: /img/analisis.jpg
 date: 2020-06-06
 ---
