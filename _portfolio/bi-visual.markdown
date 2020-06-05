@@ -7,8 +7,7 @@ date: 2020-03-04
 ---
 
 
-<iframe src="https://giphy.com/embed/6w9mOk84lgdag" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/insight-analytics-scianta-6w9mOk84lgdag">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/jpQjQVmdzTnOrpbTSj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/data-economa-jpQjQVmdzTnOrpbTSj">via GIPHY</a></p>
 <Br>
 
 
