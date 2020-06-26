@@ -2,7 +2,7 @@
 layout: post
 title: Fundamental Analysis of a Currency
 description: Financial Market Series
-img: /img/fa.jpg
+img: /img/fa2.jpg
 date: 2020-06-26
 ---
 
