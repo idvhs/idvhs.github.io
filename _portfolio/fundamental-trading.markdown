@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fundamental Analysis of a Currency
+title: Fundamental Analysis of Trading
 description: Financial Market Series
 img: /img/fa2.jpg
 date: 2020-06-26
@@ -11,7 +11,7 @@ date: 2020-06-26
 <Br>
 
 
-> **Fundamental Analysis of Currency**: <a href="https://itsmecevi.github.io/currency-fundamental/">Click Here For Curriculum</a>
+> **Fundamental Analysis of Trading**: <a href="https://itsmecevi.github.io/currency-fundamental/">Click Here For Curriculum</a>
 
 
 
