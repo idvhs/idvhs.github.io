@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Trading
+title: Fundamental-News Trading
 description: Financial Market Series
 img: /img/news.png
 date: 2020-07-03
