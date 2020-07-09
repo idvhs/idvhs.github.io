@@ -2,7 +2,7 @@
 layout: post
 title: Candlestick Price Action Trading
 description: Financial Market Series
-img: /img/pa2.png
+img: /img/pa3.png
 date: 2020-07-10
 ---
 
