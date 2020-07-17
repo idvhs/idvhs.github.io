@@ -3,7 +3,7 @@ layout: post
 title: Data-Driven Impact
 description: Data-Driven Strategist
 img: /img/dd2.png
-date: 2020-07-18
+date: 2020-07-19
 ---
 
 
