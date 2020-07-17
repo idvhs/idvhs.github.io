@@ -12,7 +12,7 @@ date: 2020-07-19
 <Br>
 
 
-> **Data-Driven Impact**: <a href="">Click Here For Curriculum</a>
+> **Data-Driven Impact**: <a href="https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Click Here For Curriculum</a>
 
 
 
