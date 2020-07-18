@@ -2,7 +2,7 @@
 layout: post
 title: Knime Academy Beginner
 description: Code Free Data Science-End to End Data Science
-img: /img/mlcover.png
+img: /img/mlcover2.jpeg
 date: 2020-07-19
 ---
 
