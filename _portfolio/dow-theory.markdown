@@ -3,7 +3,7 @@ layout: post
 title: Dow Theory Trading
 description: Financial & Capital Market Series
 img: /img/dtcover1.png
-date: 2020-07-19
+date: 2020-07-20
 ---
 
 
