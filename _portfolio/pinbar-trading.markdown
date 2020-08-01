@@ -7,7 +7,8 @@ date: 2020-08-01
 ---
 
 
-<iframe src="https://giphy.com/embed/XfmGjCqHUVSrTrfxIU" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kpi-indicators-statswall-XfmGjCqHUVSrTrfxIU">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/lOfpvYQoiJW03vpJhP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/achartaday-the-visual-agency-thevisualagency-lOfpvYQoiJW03vpJhP">via GIPHY</a></p>
+
 <Br>
 
 
