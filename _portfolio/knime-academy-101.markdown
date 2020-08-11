@@ -11,7 +11,7 @@ date: 2020-07-19
 <Br>
 
 
-> **Knime Academy Beginner**: <a href="https://itsmecevi.github.io/knime-academy-beginner/">Click Here For Curriculum</a>
+> **Knime Academy Beginner**: <a href="https://itsmecevi.github.io/knime-academy-101/">Click Here For Curriculum</a>
 
 
 
