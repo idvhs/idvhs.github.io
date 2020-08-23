@@ -7,7 +7,7 @@ date: 2020-08-23
 ---
 
 
-<iframe src="https://giphy.com/embed/jpQjQVmdzTnOrpbTSj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/data-economa-jpQjQVmdzTnOrpbTSj">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JX6v2cjwQgJby" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digg-flight-aviation-data-visualization-JX6v2cjwQgJby">via GIPHY</a></p>
 <Br>
 
 
