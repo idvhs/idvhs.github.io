@@ -11,7 +11,7 @@ date: 2020-08-23
 <Br>
 
 
-> **Data Storytelling Best Practices with Tableau**: <a href="">Click Here For Curriculum</a>
+> **Data Storytelling Best Practices with Tableau**: <a href="https://itsmecevi.github.io/data-storytelling/">Click Here For Curriculum</a>
 
 
 
