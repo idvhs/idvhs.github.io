@@ -2,7 +2,7 @@
 layout: post
 title: Data Visualization
 description: Best Practices with Tableau
-img: /img/analisis.png
+img: /img/dts.png
 date: 2020-08-23
 ---
 
