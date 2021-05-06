@@ -2,7 +2,7 @@
 layout: post
 title: Data Driven Decision
 description: Coding without code
-img: /img/dts.png
+img: /img/data-driven-culture.jpg
 date: 2021-05-07
 ---
 
@@ -18,7 +18,7 @@ date: 2021-05-07
 
 <Br>
   
-<img class="col one right" src="/img/tableau1.png" style="padding:25px">
+<img class="col one right" src="" style="padding:25px">
 
 <Br>
 
