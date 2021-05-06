@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data Visualization
-description: Best Practices with Tableau
+title: Data Driven Decision
+description: Coding without code
 img: /img/dts.png
 date: 2021-05-07
 ---
@@ -12,7 +12,7 @@ date: 2021-05-07
 <Br>
 
 
-> **Data-Driven Decision 101**: <a href="https://itsmecevi.github.io/data-visualization/">Click Here For Curriculum</a>
+> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/ddd101/blob/main/Data-Driven%20Decision.pdf">Click Here For Curriculum</a>
 
 
 
