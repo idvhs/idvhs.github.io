@@ -16,6 +16,10 @@ date: 2021-10-10
 
 > **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here For Slides</a>
 
+> **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here For Slides</a>
+  
+> **Artitifical Intelligence 101**: <a href="">Click Here For Slides</a>
+   
 
 
 <Br>
