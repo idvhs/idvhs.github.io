@@ -3,11 +3,11 @@ layout: post
 title: Data-Driven-Banking
 description: Use Case
 img: /img/data-driven-banking.jpg
-date: 2021-10-09
+date: 2021-10-10
 ---
 
 
-<iframe src="https://giphy.com/embed/KYh1vSXtcdl0RYgLCR" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/education-data-naep-KYh1vSXtcdl0RYgLCR">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">via GIPHY</a></p>
 
 <Br>
 
