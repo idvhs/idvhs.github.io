@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data Driven Decision
-description: Coding without code
+title: DDD-Banking
+description: Use Case
 img: /img/data-driven-culture.jpg
 date: 2021-10-09
 ---
