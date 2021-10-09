@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DDD-Banking
+title: Data-Driven-Banking
 description: Use Case
 img: /img/data-driven-culture.jpg
 date: 2021-10-09
