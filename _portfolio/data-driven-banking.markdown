@@ -12,7 +12,9 @@ date: 2021-10-10
 <Br>
 
 
-> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/ddd101/blob/main/Data-Driven%20Decision.pdf">Click Here For Curriculum</a>
+> **Big Data for Decision Makers**: <a href="">Click Here For Slides</a>
+
+> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/ddd101/blob/main/Data-Driven%20Decision.pdf">Click Here For Slides</a>
 
 
 
