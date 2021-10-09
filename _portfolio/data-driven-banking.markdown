@@ -24,7 +24,11 @@ date: 2021-10-10
    
 __________
   
- 
+ > **Data Visualization**: <a href="https://github.com/itsmecevi/widya-dataviz/blob/main/Widya-DataViz.pdf">Click Here For Slides</a>
+  
+ > **Data Storytelling**: <a href="">Click Here For Slides</a>
+  
+   
 
 <Br>
   
