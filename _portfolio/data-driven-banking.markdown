@@ -32,7 +32,7 @@ __________
   
  > **Business Intelligence 1O1**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here For Slides</a>
   
- > **Tableau SWOT**: <a href="">Click Here For Slides</a>
+ > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here For Slides</a>
   
    
 
