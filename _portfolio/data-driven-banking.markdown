@@ -19,8 +19,12 @@ date: 2021-10-10
 > **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here For Slides</a>
   
 > **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here For Slides</a>
+ 
+> **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here For Slides</a>
    
-
+__________
+  
+ 
 
 <Br>
   
