@@ -30,6 +30,8 @@ __________
   
  > **Data Storytelling**: <a href="https://github.com/itsmecevi/widya-datastorytelling/blob/main/Widya-DataStorytelling.pdf">Click Here For Slides</a>
   
+ > **Business Intelligence 1O1**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here For Slides</a>
+  
    
 
 <Br>
