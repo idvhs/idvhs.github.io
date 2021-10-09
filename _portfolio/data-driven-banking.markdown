@@ -14,7 +14,7 @@ date: 2021-10-10
 
 > **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here For Slides</a>
 
-> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/ddd101/blob/main/Data-Driven%20Decision.pdf">Click Here For Slides</a>
+> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here For Slides</a>
 
 
 
