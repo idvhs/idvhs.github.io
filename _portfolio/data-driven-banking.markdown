@@ -12,15 +12,15 @@ date: 2021-10-10
 <Br>
 
 
-> **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here For Slides</a>
+> **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here</a>
 
-> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here For Slides</a>
+> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here</a>
 
-> **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here For Slides</a>
+> **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
   
-> **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here For Slides</a>
+> **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here</a>
  
-> **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here For Slides</a>
+> **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here</a>
    
 > **Data-Driven Banking-X**: <a href="">Click Here For Slides</a>
   
@@ -28,15 +28,15 @@ __________
   
 <Br> 
   
- > **Data Visualization**: <a href="https://github.com/itsmecevi/widya-dataviz/blob/main/Widya-DataViz.pdf">Click Here For Slides</a>
+ > **Data Visualization**: <a href="https://github.com/itsmecevi/widya-dataviz/blob/main/Widya-DataViz.pdf">Click Here</a>
   
- > **Data Storytelling**: <a href="https://github.com/itsmecevi/widya-datastorytelling/blob/main/Widya-DataStorytelling.pdf">Click Here For Slides</a>
+ > **Data Storytelling**: <a href="https://github.com/itsmecevi/widya-datastorytelling/blob/main/Widya-DataStorytelling.pdf">Click Here</a>
   
- > **Business Intelligence 1O1**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here For Slides</a>
+ > **Business Intelligence 1O1**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here</a>
   
- > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here For Slides</a>
+ > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here</a>
   
- > **Hands-On Tableau**: <a href="https://itsmecevi.github.io/hands-on-tableau-fundamental/">Click Here For Site</a>
+ > **Hands-On Tableau**: <a href="https://itsmecevi.github.io/hands-on-tableau-fundamental/">Click Here</a>
  
 
  
