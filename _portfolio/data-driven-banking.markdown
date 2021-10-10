@@ -36,7 +36,7 @@ __________
   
  > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here For Slides</a>
   
- > **Hands-On Tableau**: <a href="">Click Here For Site</a>
+ > **Hands-On Tableau**: <a href="https://itsmecevi.github.io/hands-on-tableau-fundamental/">Click Here For Site</a>
  
 
  
