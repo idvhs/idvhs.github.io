@@ -22,7 +22,7 @@ date: 2021-10-10
  
 > **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here For Slides</a>
    
-> **Data-Driven Banking**: <a href="">Click Here For Slides</a>
+> **Data-Driven Banking-X**: <a href="">Click Here For Slides</a>
   
 __________
   
