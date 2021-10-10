@@ -43,7 +43,7 @@ __________
 
 <Br>
   
-<img class="col one right" src="" style="padding:25px">
+<img class="col one right" src="/img/logo-widya-analytics.png" style="padding:25px">
 
 <Br>
 
