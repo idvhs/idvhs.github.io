@@ -22,6 +22,8 @@ date: 2021-10-10
  
 > **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here For Slides</a>
    
+> **Data-Driven Banking**: <a href="">Click Here For Slides</a>
+  
 __________
   
 <Br> 
@@ -34,8 +36,9 @@ __________
   
  > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here For Slides</a>
   
- > **Hands-On**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here For Slides</a>
-  
+ > **Hands-On Tableau**: <a href="">Click Here For Site</a>
+ 
+
  
 
 <Br>
