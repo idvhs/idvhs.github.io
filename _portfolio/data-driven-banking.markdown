@@ -11,6 +11,15 @@ date: 2021-10-10
 
 <Br>
 
+> **PreTest: BI Fundamental**: <a href="https://forms.gle/Mt2y1e8XA3ygM2j1A">Click Here</a>
+
+> **PostTest: BI Fundamental**: <a href="https://forms.gle/Toa75PayN6yyCCGq9">Click Here</a>
+  
+> **Bank Marketing Dataset Project**: <a href="https://www.kaggle.com/janiobachmann/bank-marketing-dataset">Click Here</a>
+
+ __________
+  
+<Br> 
 
 > **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here</a>
 
