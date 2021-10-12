@@ -17,6 +17,8 @@ date: 2021-10-10
   
 > **Bank Marketing Dataset Project**: <a href="https://www.kaggle.com/janiobachmann/bank-marketing-dataset">Click Here</a>
 
+> **Medigo Consulting Challenge**: <a href="https://itsmecevi.github.io/medigo-bi/">Click Here</a>
+
  __________
   
 <Br> 
