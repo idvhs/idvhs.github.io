@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data-Driven Impact
+title: Lending
 description: Data-Driven Strategist
 img: /img/dd2.png
 date: 2020-07-19
