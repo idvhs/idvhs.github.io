@@ -13,45 +13,13 @@ date: 2021-25-10
   
   * OctaFX:
   -
+> **OctaFX**:
+  * CT1:
+  * CT2:
+
 
 > **PreTest: BI Fundamental**: <a href="https://forms.gle/Mt2y1e8XA3ygM2j1A">Click Here</a>
 
-> **PostTest: BI Fundamental**: <a href="https://forms.gle/Toa75PayN6yyCCGq9">Click Here</a>
-  
-> **Bank Marketing Dataset Project**: <a href="https://www.kaggle.com/janiobachmann/bank-marketing-dataset">Click Here</a>
-
-> **Medigo Consulting Challenge**: <a href="https://itsmecevi.github.io/medigo-bi/">Click Here</a>
-
- __________
-  
-<Br> 
-
-> **Big Data for Decision Makers**: <a href="https://github.com/itsmecevi/widya-bdfdm/blob/main/Widya-BDFDM.pdf">Click Here</a>
-
-> **Data-Driven Decision 101**: <a href="https://github.com/itsmecevi/widya-ddd/blob/main/widya-ddd.pdf">Click Here</a>
-
-> **Analytics 101**: <a href="https://github.com/itsmecevi/widya-analytics101/blob/main/Widya-Analytics101.pdf">Click Here</a>
-  
-> **Artificial Intelligence 101**: <a href="https://github.com/itsmecevi/widya-ai1O1/blob/main/Widya-AI101.pdf">Click Here</a>
- 
-> **Creative Thinking**: <a href="https://github.com/itsmecevi/widya-creativethinking/blob/main/Widya-CreativeThinking.pdf">Click Here</a>
-   
-> **Data-Driven Banking**: <a href="https://github.com/itsmecevi/data-driven-banking/blob/main/Data-Driven%20Banking.pdf">Click Here</a>
-  
-__________
-  
-<Br> 
-  
- > **Data Visualization**: <a href="https://github.com/itsmecevi/widya-dataviz/blob/main/Widya-DataViz.pdf">Click Here</a>
-  
- > **Data Storytelling**: <a href="https://github.com/itsmecevi/widya-datastorytelling/blob/main/Widya-DataStorytelling.pdf">Click Here</a>
-  
- > **Business Intelligence 1O1**: <a href="https://github.com/itsmecevi/widya-bi/blob/main/Widya-BI101.pdf">Click Here</a>
-  
- > **Tableau SWOT**: <a href="https://github.com/itsmecevi/widya-tableau-swot/blob/main/Widya-Tableau-SWOT.pdf">Click Here</a>
-  
- > **Hands-On Tableau**: <a href="https://itsmecevi.github.io/hands-on-tableau-fundamental/">Click Here</a>
- 
 
  
 
