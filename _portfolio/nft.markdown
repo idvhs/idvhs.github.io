@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Storytelling
+title: Non Fungible Token
 description: Best Practices with Tableau
 img: /img/dts.png
 date: 2020-08-23
