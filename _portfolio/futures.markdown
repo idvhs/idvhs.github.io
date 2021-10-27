@@ -25,7 +25,7 @@ date: 2021-25-10
 
 <Br>
   
-<img class="col one right" src="/img/logo-widya-analytics.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading.png" style="padding:25px">
 
 <Br>
 
