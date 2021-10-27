@@ -1,9 +1,9 @@
 # Site settings
-title: Cevi Herdian
+title: CH Trading
 email: itsmecevi@gmail.com
 description: CH Trading
 baseurl:  # the subpath of your site, e.g. /blog/
-url: itsmecevi.github.io
+url: ch-trading.github.io
 # twitter_username: twitter_username
 # github_username:  github_username
 
