@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Driven Decision
+title: Stocks Market
 description: Coding without code
 img: /img/data-driven-culture.jpg
 date: 2021-05-07
