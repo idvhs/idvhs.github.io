@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data-Driven-Banking
+title: Futures
 description: Use Case
 img: /img/data-driven-banking.jpg
 date: 2021-10-10
