@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chart Pattern Trading
+title: Time Deposit
 description: Financial & Capital Market Series
 img: /img/cpcover1.jpg
 date: 2020-07-15
