@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Futures
-description: Use Case
-img: /img/data-driven-banking.jpg
+description: Trading
+img: /img/futurestrading.png
 date: 2021-25-10
 ---
 
@@ -25,7 +25,7 @@ date: 2021-25-10
 
 <Br>
   
-<img class="col one right" src="/img/chtrading.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading-small.png" style="padding:25px">
 
 <Br>
 
