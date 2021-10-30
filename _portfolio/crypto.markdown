@@ -2,7 +2,7 @@
 layout: post
 title: Crypto Currency-SOON
 description: 
-img: /img/dts.png
+img: /img/bitcoin.jpg
 date: 2020-08-23
 ---
 
@@ -16,7 +16,7 @@ date: 2020-08-23
 
 <Br>
   
-<img class="col one right" src="/img/tableau1.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading-small.png" style="padding:25px">
 
 <Br>
 
