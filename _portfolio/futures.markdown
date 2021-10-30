@@ -20,7 +20,7 @@ date: 2020-08-24
   5. HIGH RISK CT-5:
   
 > **Gold**: 
-  1. HIGH RISK CT-Gold:
+  * HIGH RISK CT-Gold:
  
   
   
