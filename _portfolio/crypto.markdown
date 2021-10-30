@@ -7,13 +7,12 @@ date: 2020-08-23
 ---
 
 
-<iframe src="https://giphy.com/embed/JX6v2cjwQgJby" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digg-flight-aviation-data-visualization-JX6v2cjwQgJby">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/trN9ht5RlE3Dcwavg2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bitcoin-crypto-blockchain-trN9ht5RlE3Dcwavg2">via GIPHY</a></p>
+
 <Br>
 
 
-> **Data Visualization Best Practices with Tableau**: <a href="https://itsmecevi.github.io/data-visualization/">Click Here For Curriculum</a>
-
-
+> **SOON**: 
 
 <Br>
   
