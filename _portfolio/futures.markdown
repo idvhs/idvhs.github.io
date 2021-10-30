@@ -2,7 +2,7 @@
 layout: post
 title: Futures
 description: 
-img: /img/futures.png
+img: /img/futures1.png
 date: 2020-08-24
 ---
 
