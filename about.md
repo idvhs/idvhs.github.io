@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/chtrading-small.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
 <div>
 Cevi Herdian Trading. 
