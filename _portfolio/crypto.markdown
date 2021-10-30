@@ -16,7 +16,7 @@ date: 2020-08-23
 
 <Br>
   
-<img class="col one right" src="/img/chtrading-small.png" style="padding:25px">
+<img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
 <Br>
 
