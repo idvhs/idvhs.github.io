@@ -16,8 +16,11 @@ date: 2020-08-24
   1. HIGH RISK CT-1:
   2. HIGH RISK CT-2:
   3. HIGH RISK CT-3:
+  4. HIGH RISK CT-4:
+  5. HIGH RISK CT-5:
   
-> **Only Gold**: 
+> **Gold**: 
+  1. HIGH RISK CT-Gold:
  
   
   
