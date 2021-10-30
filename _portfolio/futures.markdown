@@ -13,8 +13,9 @@ date: 2020-08-24
 
 
 > **Major Pair**: 
-  1. CT-1:
-  2. CT-2:
+  1. HIGH RISK CT-1:
+  2. HIGH RISK CT-2:
+  3. VERY AGGRESIVE CT-3:
   
 > **Only Gold**: 
  
