@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Crypto Currency
-description: Best Practices with Tableau
+title: Crypto Currency-SOON
+description: 
 img: /img/dts.png
 date: 2020-08-23
 ---
