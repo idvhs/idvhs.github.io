@@ -1,18 +1,25 @@
 ---
 layout: post
-title: Crypto Currency-SOON
+title: Futures
 description: 
-img: /img/bitcoin.jpg
+img: /img/futures.png
 date: 2020-08-24
 ---
 
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/trN9ht5RlE3Dcwavg2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bitcoin-crypto-blockchain-trN9ht5RlE3Dcwavg2">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/iYTXFJofI7I987H92k" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/stocks-stockmarket-graphs-iYTXFJofI7I987H92k">via GIPHY</a></p>
 
 <Br>
 
 
-> **SOON**: 
+> **Major Pair**: 
+  1. CT-1:
+  2. CT-2:
+  
+> **Only Gold**: 
+ 
+  
+  
 
 <Br>
   
