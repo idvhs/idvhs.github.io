@@ -25,6 +25,6 @@ date: 2020-08-23
 
 
 <li>
-<a id="icon" href="https://https://github.com/ch-trading" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
+<a id="icon" href="https://github.com/ch-trading" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
 </li>
 
