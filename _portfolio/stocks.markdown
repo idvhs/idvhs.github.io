@@ -15,6 +15,9 @@ date: 2020-08-23
 > **IDX**: 
   * Construction
     * WIKA
+    * WSKT
+    * ADHI
+    * PTPP
  
   
   
