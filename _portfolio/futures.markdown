@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futures
+title: Currency
 description: 
 img: /img/futures1.png
 date: 2020-08-24
