@@ -11,7 +11,7 @@ date: 2020-08-23
 <Br>
 
   
-> **IDX**: 
+> **IDX:**
   * Construction
     * WIKA
     * WSKT
