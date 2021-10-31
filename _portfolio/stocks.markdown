@@ -3,7 +3,7 @@ layout: post
 title: Stocks
 description: 
 img: /img/stocks.jpg
-date: 2020-08-23
+date: 2021-11-01
 ---
 
 
@@ -21,11 +21,7 @@ date: 2020-08-23
   
   
 
-<Br>
-  
-<img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
-<Br>
 
 
 
