@@ -13,11 +13,9 @@ date: 2021-10-18
 
 
 > **Major Pair**: 
-  1. HIGH RISK CT-1:
+  1. HIGH RISK CT-1: https://bit.ly/3bE0jvC MC (Margin Call=> OVERLOT with XAU) 
   2. HIGH RISK CT-2:
-  3. HIGH RISK CT-3:
-  4. HIGH RISK CT-4:
-  5. HIGH RISK CT-5:
+  
   
 > **Gold**: 
   * HIGH RISK CT-Gold:
