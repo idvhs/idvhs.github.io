@@ -28,17 +28,5 @@ date: 2021-10-18
   
   
 
-<Br>
-  
-<img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
-<Br>
-
-> This Documents using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
-> Find the file and others stuff in my github account.
-
-
-<li>
-<a id="icon" href="https://github.com/ch-trading" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
-</li>
 
