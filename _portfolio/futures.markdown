@@ -16,7 +16,7 @@ date: 2021-10-18
   
   
 > **Major Pair**: 
-  1. HIGH RISK CT-1: [Here](https://bit.ly/3bE0jvC) (OFF, Margin Call=> OVERLOT with XAU)-XXXX
+  ~~1. HIGH RISK CT-1: [Here](https://bit.ly/3bE0jvC) (OFF, Margin Call=> OVERLOT with XAU)-XXXX~~
   1. HIGH RISK CT-1: 
   2. HIGH RISK CT-2: [Here](https://bit.ly/3BIhgQi) (Still ON=> OVERLOT with XAU)
   
