@@ -12,7 +12,7 @@ date: 2021-10-18
 <Br>
   
 > **Only EU**: 
-1. CT-1: SUPER SCALPER Pinbar EU [Here](https://bit.ly/3BIhgQi)
+* CT-1: SUPER SCALPER Pinbar EU=> [Here](https://bit.ly/3BIhgQi)
 
  
   
