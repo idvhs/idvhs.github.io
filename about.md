@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/chtrading2.png" style="padding:25px">
+<img class="col one right" src="/img/" style="padding:25px">
 
 <div>
 Bearlyn Trading. 
