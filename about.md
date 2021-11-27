@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
 <div>
-Gertaone Trading. 
+Bearlyn Trading. 
 <br>
 <span class="changing"></span>
 <br>
@@ -22,7 +22,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
 <br>
 <br>
-CH Trading believes that the only constant is the process of change … by getting better every single day.
+We are believes that the only constant is the process of change … by getting better every single day.
 <br>
 Feel free to contact us: gertaone@gmail.com
 	
