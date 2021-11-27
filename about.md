@@ -59,7 +59,7 @@ Feel free to contact us: bearlyntrading@gmail.com
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven Research Trading."],
+        strings: ["Data-Driven Research Trading..."],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
