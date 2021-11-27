@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/gertaonetrading.png" style="padding:25px">
 
 <div>
-Bearlyn Trading. 
+Gertaone Trading...
 <br>
 <span class="changing"></span>
 <br>
