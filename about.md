@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/chtrading2.png" style="padding:25px">
 
 <div>
-Cevi Herdian Trading. 
+Gertaone Trading. 
 <br>
 <span class="changing"></span>
 <br>
@@ -24,7 +24,7 @@ Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects o
 <br>
 CH Trading believes that the only constant is the process of change … by getting better every single day.
 <br>
-Feel free to contact us: +4917632811289
+Feel free to contact us: gertaone@gmail.com
 	
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).-->
 <br>
