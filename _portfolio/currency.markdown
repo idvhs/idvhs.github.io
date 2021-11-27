@@ -11,7 +11,7 @@ date: 2021-10-18
 
 <Br>
    
-* [CT-1=>](https://bit.ly/3BIhgQi)
+* [Copy Trade 1=>](https://bit.ly/3BIhgQi)
 
  
   
