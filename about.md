@@ -24,7 +24,7 @@ Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects o
 <br>
 We are believes that the only constant is the process of change … by getting better every single day.
 <br>
-Feel free to contact us: gertaone@gmail.com
+Feel free to contact us: bearlyntrading@gmail.com
 	
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).-->
 <br>
