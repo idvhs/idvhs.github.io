@@ -11,7 +11,7 @@ date: 2021-10-18
 
 <Br>
   
-> **Gertaone Account**: 
+> **Gertaone**: 
 * CT-1: SUPER SCALPER EURUSD=> [Here](https://bit.ly/3BIhgQi)
 
  
