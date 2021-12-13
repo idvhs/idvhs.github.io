@@ -19,11 +19,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-Inspired by Germany "Volkshochschule" : A Non-Degree Program Education System. VHS Indonesia serves as a community school for continuing education, and offers classes in a wide variety of things. There are 7 Key tasks of VHS Indonesia:
-	
-1. Ensuring more equal opportunity in education
-	
-2. Promoting intercultural continuing education
+Inspired by Germany "Volkshochschule" : A Non-Degree Program Education System. VHS Indonesia serves as a community school for continuing education, and offers classes in a wide variety of things. 
 <br>
 <br>
 We are believes that the only constant is the process of change … by getting better every single day.
