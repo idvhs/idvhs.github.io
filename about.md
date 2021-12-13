@@ -23,7 +23,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 Inspired by Germany "Volkshochschule" : A Non-Degree Program Education System. VHS Indonesia serves as a community school for continuing education, and offers classes in a wide variety of things. 
 <br>
 <br>
-Try to bring "Made in Germany" Mindset, Methods, Tool and Network.
+Trying to bring "Made in Germany" Mindset, Methods, Tools and Networks.
 <br>
 Feel free to contact us: indonesiavhs@gmail.com
 	
@@ -60,7 +60,7 @@ Feel free to contact us: indonesiavhs@gmail.com
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Volkshochshule Indonesia"],
+        strings: ["Volkshochshule Indonesia."],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
