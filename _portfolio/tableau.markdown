@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tableau Developer Program
-description: 
+description: Tableau 360°
 img: /img/TDP.png
 date: 2021-12-13
 ---
