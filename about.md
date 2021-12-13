@@ -7,7 +7,8 @@ permalink: /about/
 <img class="col one right" src="/img/vhs-id.png" style="padding:25px">
 
 <div>
-Volkshochshule Indonesia...
+Gemeinsam für mehr Bildung...
+
 <br>
 <span class="changing"></span>
 <br>
@@ -59,7 +60,7 @@ Feel free to contact us: indonesiavhs@gmail.com
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Gemeinsam für mehr Bildung."],
+        strings: ["Volkshochshule Indonesia"],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
