@@ -18,7 +18,6 @@ date: 2021-12-13
     * SQL Fundamental
     * Data Visualization & Data Storytelling
     * Tableau (Beginnner, Intermediate, Advanced)
-    
   * Duration:
     * 1.5 month lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-22.00
@@ -33,7 +32,7 @@ date: 2021-12-13
     * Data Steward
   
  
-  Launching your Career as TABLEAU DEVELOPER MADE IN GERMANY educations style!
+  **Launching your Career as TABLEAU DEVELOPER MADE IN GERMANY educations style!**
     
   
   
