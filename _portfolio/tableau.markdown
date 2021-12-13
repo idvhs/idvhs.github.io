@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stocks
+title: Tableau Developer Program
 description: 
 img: /img/tableau-icon.png
 date: 2021-12-13
