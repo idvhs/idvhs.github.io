@@ -34,7 +34,7 @@ date: 2021-12-13
     * Data Steward
   
  
-  **Launching your Career as TABLEAU DEVELOPER MADE IN GERMANY educations style!**
+  **Launching your Career as Tableau Developer "MADE IN GERMANY" educations style!**
     
   
   
