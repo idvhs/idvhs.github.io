@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /bootcamp/
+permalink: /diversification/
 ---
 {% assign sorted = site.portfolio | sort: 'date' | reverse %}
 {% for project in sorted %}
