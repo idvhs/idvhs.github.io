@@ -23,7 +23,7 @@ date: 2021-12-13
     * 1.5 month lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-22.00
     * Minimum participant: 15 persons
-    * 10,000K (Sepuluh Juta Rupiah)
+    * @10,000K (Sepuluh Juta Rupiah)
   
   * Tableau Badges:
     * Consumer
