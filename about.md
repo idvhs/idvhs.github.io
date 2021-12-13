@@ -59,7 +59,7 @@ Feel free to contact us: indonesiavhs@gmail.com
 <script>
   $(function(){
       $(".changing").typed({
-        strings: ["Data-Driven Research Trading..."],
+        strings: ["Gemeinsam für mehr Bildung."],
         typeSpeed: 50,
 				backDelay: 2000,
 				showCursor: false,
