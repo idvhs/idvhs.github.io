@@ -2,8 +2,8 @@
 layout: post
 title: Currency
 description: 
-img: /img/futures1.png
-date: 2021-10-18
+img: /img/custom-icon.png
+date: 2021-12-12
 ---
 
 
@@ -11,7 +11,7 @@ date: 2021-10-18
 
 <Br>
    
-* [Copy Trade 1](https://www.mql5.com/en/signals/1287647?source=Site+Profile)
+* Feel free to contact us
 
  
   
