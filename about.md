@@ -19,12 +19,16 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-Since 2020, our mission has been to ADAPT, INNOVATE and EVOLVE. In all aspects of our organization, it is a core belief that these three action words help define the roadmap to success.
+Inspired by Germany "Volkshochschule" : A Non-Degree Program Education System. VHS Indonesia serves as a community school for continuing education, and offers classes in a wide variety of things. There are 7 Key tasks of VHS Indonesia:
+	
+1. Ensuring more equal opportunity in education
+	
+2. Promoting intercultural continuing education
 <br>
 <br>
 We are believes that the only constant is the process of change … by getting better every single day.
 <br>
-Feel free to contact us: gertaone@gmail.com
+Feel free to contact us: indonesiavhs@gmail.com
 	
 <!--I am a postgraduate student in Financial Services & Risk Management at HTW Berlin-University of Applied Sciences. My Specializing area in study is Advanced Data Analytics (Descriptive, Predictive, and Applied AI=Machine learning), Forecasting, and KPI (Key Performances Indicators).-->
 <br>
