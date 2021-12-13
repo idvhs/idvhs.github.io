@@ -2,7 +2,7 @@
 layout: post
 title: Tableau Developer Program
 description: 
-img: /img/tableau-icon-1.png
+img: /img/TDP.png
 date: 2021-12-13
 ---
 
