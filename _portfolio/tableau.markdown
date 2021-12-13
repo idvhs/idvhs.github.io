@@ -20,6 +20,7 @@ date: 2021-12-13
     * Tableau (Beginnner, Intermediate, Advanced)
   
   * Terms & Conditions:
+    * Mentor: Cevi Herdian, M. Sc (Ex-Germany Data Consultant)
     * 1.5 month lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-22.00
     * Minimum participant: 15 persons
