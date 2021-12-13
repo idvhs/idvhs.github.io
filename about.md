@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/gertaonetrading.png" style="padding:25px">
+<img class="col one right" src="/img/vhs-id.png" style="padding:25px">
 
 <div>
-Gertaone Trading...
+Volkshochshule Indonesia...
 <br>
 <span class="changing"></span>
 <br>
