@@ -40,7 +40,11 @@ date: 2021-12-13
   **Launching your Career as Tableau Developer "MADE IN GERMANY" educations style!**
     
   
+<Br>
   
+<img class="col one right" src="/img/tableau1.png" style="padding:25px">
+
+<Br>
 
 
 
