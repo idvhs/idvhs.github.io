@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /diversification/
+permalink: /programs/
 ---
 {% assign sorted = site.portfolio | sort: 'date' | reverse %}
 {% for project in sorted %}
