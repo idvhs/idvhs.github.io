@@ -13,17 +13,20 @@ date: 2021-12-13
   
 > **Tableu Developer Program:**
   * Curriculum
+    * Data-Driven Decision
+    * Big Data Analytics
     * Business Intelligence Fundamental
     * Data Workflow 101
     * SQL Fundamental
-    * Data Visualization & Data Storytelling
-    * Tableau (Beginnner, Intermediate, Advanced)
+    * Data Visualization
+    * Data Storytelling
+    * Tableau (Beginnner, Intermediate, Advanced, Developer)
   
   * Terms & Conditions:
     * Mentor: Cevi Herdian, M. Sc (Ex-Germany Data Consultant)
     * 1.5 month lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-22.00
-    * Minimum participant: 15 persons
+    * Minimum participant: 20 persons
     * @10,000K (Sepuluh Juta Rupiah)
   
   * Tableau Badges:
