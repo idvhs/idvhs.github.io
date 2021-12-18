@@ -24,7 +24,8 @@ date: 2021-12-13
     * SQL Fundamental
     * Data Visualization
     * Data Storytelling
-    * Tableau (Beginnner, Intermediate, Advanced, Developer)
+    * Data Journalism
+    * Tableau (Beginnner, Intermediate, Advanced)
   
   * Terms & Conditions:
     * Mentor: Cevi Herdian, M. Sc (Ex-Germany Data Consultant)
