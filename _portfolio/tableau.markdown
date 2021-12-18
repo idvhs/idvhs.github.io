@@ -44,6 +44,7 @@ date: 2021-12-13
     * Community Leader
     * Data Steward
   
+  * For More Info: Flyer Tableau Developer Program
  
   **Launching your Career as Tableau Developer "MADE IN GERMANY" educations style!**
     
