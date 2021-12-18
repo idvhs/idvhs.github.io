@@ -15,6 +15,10 @@ date: 2021-12-13
   * Curriculum
     * Data-Driven Decision
     * Big Data Analytics
+    * Agile Project Management
+    * Artificial Intelligence/Machine Learning
+    * Creative Thinking
+    * Data Culture
     * Business Intelligence Fundamental
     * Data Workflow 101
     * SQL Fundamental
