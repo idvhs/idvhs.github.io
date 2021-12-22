@@ -21,6 +21,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 Volkshochshule Indonesia is a part of NGO (Non-Goverment Organization) Yayasan Lingkar Semesta (AHU-2527.AH.01.04, 2013).
 <br>
+	<br>
 Inspired by Germany "Volkshochschule": A Non-Degree Program Education System. VHS Indonesia serves as a community college for continuing education, and offers classes in a wide variety of things. 
 <br>
 <br>
