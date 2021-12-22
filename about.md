@@ -20,7 +20,7 @@ Focusing on KPI Dashboard (Key Performance Indicator) and Predictive Analytics.-
 	
 <!--Presently I learn Data Science from scratch from Deutsche Bahn Headquarters Data Science team as intern.-->
 <br>
-Inspired by Germany "Volkshochschule" : A Non-Degree Program Education System. VHS Indonesia serves as a community school for continuing education, and offers classes in a wide variety of things. 
+Inspired by Germany "Volkshochschule": A Germany Non-Degree Program Education System. VHS Indonesia serves as a community college for continuing education, and offers classes in a wide variety of things. 
 <br>
 <br>
 Trying to bring "Made in Germany" Mindset, Methods, Tools and Networks.
