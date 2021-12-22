@@ -32,7 +32,7 @@ date: 2021-12-13
     * 1.5 month lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-22.00
     * Minimum participant: 10 persons
-    * @10,000K (Sepuluh Juta Rupiah)
+    * @2500K (Dua Juta Lima Ratus Ribu Rupiah) * Terms and Conditions Apply
   
   * Tableau Badges:
     * Consumer
@@ -44,7 +44,7 @@ date: 2021-12-13
     * Community Leader
     * Data Steward
   
-  * For More Info: Flyer Tableau Developer Program
+  * Download Program Descriptions [HERE]()
  
   **Launching your Career as Tableau Developer "MADE IN GERMANY" educations style!**
     
