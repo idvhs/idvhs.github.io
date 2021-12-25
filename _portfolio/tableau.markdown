@@ -32,7 +32,7 @@ date: 2021-12-13
     * Mentor: Cevi Herdian, M. Sc (Ex-Germany Data Consultant)
     * 1.5 months lectures, 1.5 months custom mentoring
     * Only Weekend: 19.30-21.30
-    * @2500K (Dua Juta Lima Ratus Ribu Rupiah) * Terms and Conditions Apply
+    
   
   * Tableau Badges:
     * Consumer
