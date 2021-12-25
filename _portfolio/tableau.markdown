@@ -14,7 +14,8 @@ date: 2021-12-13
 > **Tableu Developer Program:**
   * Curriculum
     * Data-Driven Decision
-    * Big Data Analytics
+    * Big Data 
+    * Analytics
     * Agile Project Management
     * Artificial Intelligence/Machine Learning
     * Creative Thinking
@@ -43,7 +44,7 @@ date: 2021-12-13
     * Community Leader
     * Data Steward
   
-  * Download Program Descriptions [HERE]()
+  * Download Program Descriptions [HERE](https://github.com/idvhs/tdp/blob/main/TDP-Program%20Description.pdf)
  
   
   **Trainers who are experienced consultants...Bring real-world expertise to your users.**
